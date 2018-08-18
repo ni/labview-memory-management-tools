@@ -11,7 +11,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="LabVIEW Memory Manager.lvlib" Type="Library" URL="../LabVIEW Memory Manager.lvlib"/>
+		<Item Name="Examples" Type="Folder"/>
+		<Item Name="LabVIEW Memory Manager.lvlib" Type="Library" URL="../Library/LabVIEW Memory Manager.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
