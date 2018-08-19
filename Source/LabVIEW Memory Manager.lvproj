@@ -12,6 +12,9 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Examples" Type="Folder"/>
+		<Item Name="Testing" Type="Folder">
+			<Item Name="Property Test.vi" Type="VI" URL="../Tests/Property Test.vi"/>
+		</Item>
 		<Item Name="LabVIEW Memory Manager.lvlib" Type="Library" URL="../Library/LabVIEW Memory Manager.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>

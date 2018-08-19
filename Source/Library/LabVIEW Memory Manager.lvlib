@@ -8,4 +8,5 @@
 		<Item Name="Memory.Manager.lvclass" Type="LVClass" URL="../Classes/Manager/Memory.Manager.lvclass"/>
 		<Item Name="Memory.Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Memory.Pointer.lvclass"/>
 	</Item>
+	<Item Name="VIs" Type="Folder"/>
 </Library>
