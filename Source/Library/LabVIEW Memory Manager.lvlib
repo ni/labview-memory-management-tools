@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Classes" Type="Folder">
+		<Item Name="Memory.Array.lvclass" Type="LVClass" URL="../Classes/Array/Memory.Array.lvclass"/>
 		<Item Name="Memory.Manager.lvclass" Type="LVClass" URL="../Classes/Manager/Memory.Manager.lvclass"/>
 		<Item Name="Memory.Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Memory.Pointer.lvclass"/>
 	</Item>
