@@ -9,5 +9,10 @@
 		<Item Name="Memory.Manager.lvclass" Type="LVClass" URL="../Classes/Manager/Memory.Manager.lvclass"/>
 		<Item Name="Memory.Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Memory.Pointer.lvclass"/>
 	</Item>
-	<Item Name="VIs" Type="Folder"/>
+	<Item Name="VIs" Type="Folder">
+		<Item Name="Memory.Truncate I32.vi" Type="VI" URL="../Classes/Pointer/Methods/Memory.Truncate I32.vi"/>
+		<Item Name="Memory.Truncate I64 to I32.vi" Type="VI" URL="../Classes/Pointer/Methods/Memory.Truncate I64 to I32.vi"/>
+		<Item Name="Memory.Truncate I64.vi" Type="VI" URL="../Classes/Pointer/Methods/Memory.Truncate I64.vi"/>
+		<Item Name="Memory.Truncate U64.vi" Type="VI" URL="../Classes/Pointer/Methods/Memory.Truncate U64.vi"/>
+	</Item>
 </Library>
