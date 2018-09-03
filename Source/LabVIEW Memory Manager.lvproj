@@ -14,7 +14,6 @@
 		<Item Name="Examples" Type="Folder"/>
 		<Item Name="Testing" Type="Folder">
 			<Item Name="Pointer" Type="Folder">
-				<Item Name="Pointer.Duration.vi" Type="VI" URL="../Tests/Pointer.Duration.vi"/>
 				<Item Name="Pointer.Throughput.vi" Type="VI" URL="../Tests/Pointer.Throughput.vi"/>
 			</Item>
 			<Item Name="Property Test.vi" Type="VI" URL="../Tests/Property Test.vi"/>
