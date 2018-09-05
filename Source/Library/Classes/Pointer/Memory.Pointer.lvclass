@@ -170,7 +170,34 @@
 					<Property Name="NI.ClassItem.Priority" Type="Int">3</Property>
 					<Property Name="NI.ClassItem.State" Type="Int">34078720</Property>
 				</Item>
-				<Item Name="Memory.Pointer.Read (safe).vi" Type="VI" URL="../Methods/Memory.Pointer.Read (safe).vi">
+				<Item Name="Memory.Pointer.Read All (unsafe).vi" Type="VI" URL="../Methods/Memory.Pointer.Read All (unsafe).vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'%!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!-0````]+9H6G:G6S)'^V&gt;!!!3E"Q!"Y!!$5=4'&amp;C6EF&amp;6S".:7VP=HEA47&amp;O97&gt;F=CZM&gt;GRJ9B:.:7VP=HEO5'^J&lt;H2F=CZM&gt;G.M98.T!!N1&lt;WFO&gt;'6S)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"*!-0````]*9H6G:G6S)'FO!%J!=!!?!!!V(%RB9F:*26=A476N&lt;X*Z)%VB&lt;G&amp;H:8)O&lt;(:M;7)7476N&lt;X*Z,F"P;7ZU:8)O&lt;(:D&lt;'&amp;T=Q!+5'^J&lt;H2F=C"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!)!!E$!!"Y!!!.#!!!!!!!!!U+!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#A!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">3</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">34078736</Property>
+				</Item>
+				<Item Name="Memory.Pointer.Read In Place (safe).vi" Type="VI" URL="../Methods/Memory.Pointer.Read In Place (safe).vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'K!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%5!%!!JC?82F=S"S:7&amp;E!!!&amp;!!5!!"R!1!!"`````Q!&amp;$G2T&gt;#"C&gt;7:G:8)A&lt;X6U!!"+1(!!(A!!.2R-97*73568)%VF&lt;7^S?3".97ZB:W6S,GRW&lt;'FC&amp;EVF&lt;7^S?3Z1&lt;WFO&gt;'6S,GRW9WRB=X-!#V"P;7ZU:8)A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"J!1!!"`````Q!&amp;$72T&gt;#"C&gt;7:G:8)A;7Y!3E"Q!"Y!!$5=4'&amp;C6EF&amp;6S".:7VP=HEA47&amp;O97&gt;F=CZM&gt;GRJ9B:.:7VP=HEO5'^J&lt;H2F=CZM&gt;G.M98.T!!J1&lt;WFO&gt;'6S)'FO!!"B!0!!$!!$!!1!"A!(!!A!#!!)!!A!#1!)!!I!#Q-!!(A!!!U)!!!*!!!!$1I!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!)1!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">3</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">268972050</Property>
+				</Item>
+				<Item Name="Memory.Pointer.Read In Place (unsafe).vi" Type="VI" URL="../Methods/Memory.Pointer.Read In Place (unsafe).vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'K!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%5!%!!JC?82F=S"S:7&amp;E!!!&amp;!!5!!"R!1!!"`````Q!&amp;$G2T&gt;#"C&gt;7:G:8)A&lt;X6U!!"+1(!!(A!!.2R-97*73568)%VF&lt;7^S?3".97ZB:W6S,GRW&lt;'FC&amp;EVF&lt;7^S?3Z1&lt;WFO&gt;'6S,GRW9WRB=X-!#V"P;7ZU:8)A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"J!1!!"`````Q!&amp;$72T&gt;#"C&gt;7:G:8)A;7Y!3E"Q!"Y!!$5=4'&amp;C6EF&amp;6S".:7VP=HEA47&amp;O97&gt;F=CZM&gt;GRJ9B:.:7VP=HEO5'^J&lt;H2F=CZM&gt;G.M98.T!!J1&lt;WFO&gt;'6S)'FO!!"B!0!!$!!$!!1!"A!(!!A!#!!)!!A!#1!)!!I!#Q-!!(A!!!U)!!!*!!!!$1I!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!)1!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">3</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">268972050</Property>
+				</Item>
+				<Item Name="Memory.Pointer.Read Subset (safe).vi" Type="VI" URL="../Methods/Memory.Pointer.Read Subset (safe).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'F!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%5!)!!JP:G:T:81A:(6Q!!!/1$$`````"'2B&gt;'%!!%J!=!!?!!!V(%RB9F:*26=A476N&lt;X*Z)%VB&lt;G&amp;H:8)O&lt;(:M;7)7476N&lt;X*Z,F"P;7ZU:8)O&lt;(:D&lt;'&amp;T=Q!,5'^J&lt;H2F=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%5!)!!JP:G:T:81A+$!J!!!81!1!%'RF&lt;G&gt;U;#!I,4%[)'&amp;M&lt;#E!!%J!=!!?!!!V(%RB9F:*26=A476N&lt;X*Z)%VB&lt;G&amp;H:8)O&lt;(:M;7)7476N&lt;X*Z,F"P;7ZU:8)O&lt;(:D&lt;'&amp;T=Q!+5'^J&lt;H2F=C"J&lt;A!!91$Q!!Q!!Q!%!!5!"A!(!!=!"Q!(!!A!#1!+!!M$!!"Y!!!.#!!!$1E!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!)!!!!#!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!$!!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
@@ -179,7 +206,7 @@
 					<Property Name="NI.ClassItem.Priority" Type="Int">3</Property>
 					<Property Name="NI.ClassItem.State" Type="Int">268972048</Property>
 				</Item>
-				<Item Name="Memory.Pointer.Read (unsafe).vi" Type="VI" URL="../Methods/Memory.Pointer.Read (unsafe).vi">
+				<Item Name="Memory.Pointer.Read Subset (unsafe).vi" Type="VI" URL="../Methods/Memory.Pointer.Read Subset (unsafe).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'&lt;!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%5!)!!JP:G:T:81A:(6Q!!!/1$$`````"'2B&gt;'%!!%J!=!!?!!!V(%RB9F:*26=A476N&lt;X*Z)%VB&lt;G&amp;H:8)O&lt;(:M;7)7476N&lt;X*Z,F"P;7ZU:8)O&lt;(:D&lt;'&amp;T=Q!,5'^J&lt;H2F=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%5!)!!JP:G:T:81A+$!J!!!.1!1!"GRF&lt;G&gt;U;!!!3E"Q!"Y!!$5=4'&amp;C6EF&amp;6S".:7VP=HEA47&amp;O97&gt;F=CZM&gt;GRJ9B:.:7VP=HEO5'^J&lt;H2F=CZM&gt;G.M98.T!!J1&lt;WFO&gt;'6S)'FO!!"B!0!!$!!$!!1!"1!'!!=!"Q!(!!=!#!!*!!I!#Q-!!(A!!!U)!!!.#1!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!A!!!!1!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!-!!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
@@ -188,16 +215,7 @@
 					<Property Name="NI.ClassItem.Priority" Type="Int">3</Property>
 					<Property Name="NI.ClassItem.State" Type="Int">268972048</Property>
 				</Item>
-				<Item Name="Memory.Pointer.Read All (unsafe).vi" Type="VI" URL="../Methods/Memory.Pointer.Read All (unsafe).vi">
-					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'!!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"*!-0````]):'&amp;U93"P&gt;81!!%J!=!!?!!!V(%RB9F:*26=A476N&lt;X*Z)%VB&lt;G&amp;H:8)O&lt;(:M;7)7476N&lt;X*Z,F"P;7ZU:8)O&lt;(:D&lt;'&amp;T=Q!,5'^J&lt;H2F=C"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!11$$`````"W2B&gt;'%A;7Y!3E"Q!"Y!!$5=4'&amp;C6EF&amp;6S".:7VP=HEA47&amp;O97&gt;F=CZM&gt;GRJ9B:.:7VP=HEO5'^J&lt;H2F=CZM&gt;G.M98.T!!J1&lt;WFO&gt;'6S)'FO!!"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!A!#1-!!(A!!!U)!!!!!!!!$1I!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!%3!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
-					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-					<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
-					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-					<Property Name="NI.ClassItem.Priority" Type="Int">3</Property>
-					<Property Name="NI.ClassItem.State" Type="Int">268967952</Property>
-				</Item>
-				<Item Name="Memory.Pointer.Read In Place (safe).vi" Type="VI" URL="../Methods/Memory.Pointer.Read In Place (safe).vi">
+				<Item Name="Memory.Pointer.Read Subset In Place (safe).vi" Type="VI" URL="../Methods/Memory.Pointer.Read Subset In Place (safe).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'Z!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%5!)!!JP:G:T:81A:(6Q!!!31$$`````#'2B&gt;'%A&lt;X6U!!"+1(!!(A!!.2R-97*73568)%VF&lt;7^S?3".97ZB:W6S,GRW&lt;'FC&amp;EVF&lt;7^S?3Z1&lt;WFO&gt;'6S,GRW9WRB=X-!#V"P;7ZU:8)A&lt;X6U!!1!!!!81!1!%'RF&lt;G&gt;U;#!I,4%[)'&amp;M&lt;#E!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%5!)!!JP:G:T:81A+$!J!!!11$$`````"W2B&gt;'%A;7Y!3E"Q!"Y!!$5=4'&amp;C6EF&amp;6S".:7VP=HEA47&amp;O97&gt;F=CZM&gt;GRJ9B:.:7VP=HEO5'^J&lt;H2F=CZM&gt;G.M98.T!!J1&lt;WFO&gt;'6S)'FO!!"B!0!!$!!$!!1!"1!'!!=!"Q!(!!A!#1!+!!M!$!-!!(A!!!U)!!!.#1!!$1I!!!U,!!!!!!!!!!!!!!!!!!!)!!!!#A!!!!A!!!%3!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!.!!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
@@ -206,7 +224,7 @@
 					<Property Name="NI.ClassItem.Priority" Type="Int">3</Property>
 					<Property Name="NI.ClassItem.State" Type="Int">268972048</Property>
 				</Item>
-				<Item Name="Memory.Pointer.Read In Place (unsafe).vi" Type="VI" URL="../Methods/Memory.Pointer.Read In Place (unsafe).vi">
+				<Item Name="Memory.Pointer.Read Subset In Place (unsafe).vi" Type="VI" URL="../Methods/Memory.Pointer.Read Subset In Place (unsafe).vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'P!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%5!)!!JP:G:T:81A:(6Q!!!31$$`````#'2B&gt;'%A&lt;X6U!!"+1(!!(A!!.2R-97*73568)%VF&lt;7^S?3".97ZB:W6S,GRW&lt;'FC&amp;EVF&lt;7^S?3Z1&lt;WFO&gt;'6S,GRW9WRB=X-!#V"P;7ZU:8)A&lt;X6U!!1!!!!.1!1!"GRF&lt;G&gt;U;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!21!A!#G^G:H.F&gt;#!I-#E!!""!-0````](:'&amp;U93"J&lt;A"+1(!!(A!!.2R-97*73568)%VF&lt;7^S?3".97ZB:W6S,GRW&lt;'FC&amp;EVF&lt;7^S?3Z1&lt;WFO&gt;'6S,GRW9WRB=X-!#F"P;7ZU:8)A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"Q!(!!=!#!!*!!I!#Q!-!Q!!?!!!$1A!!!U*!!!.#A!!$1M!!!!!!!!!!!!!!!!!!"!!!!!+!!!!#!!!!2)!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!U!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
@@ -234,7 +252,16 @@
 					<Property Name="NI.ClassItem.State" Type="Int">268972048</Property>
 				</Item>
 			</Item>
-			<Item Name="Memory.Pointer Method.vit" Type="VI" URL="../Methods/Memory.Pointer Method.vit">
+			<Item Name="Memory.Pointer Dynamic Method.vit" Type="VI" URL="../Methods/Memory.Pointer Dynamic Method.vit">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;2!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%J!=!!?!!!V(%RB9F:*26=A476N&lt;X*Z)%VB&lt;G&amp;H:8)O&lt;(:M;7)7476N&lt;X*Z,F"P;7ZU:8)O&lt;(:D&lt;'&amp;T=Q!,5'^J&lt;H2F=C"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"+1(!!(A!!.2R-97*73568)%VF&lt;7^S?3".97ZB:W6S,GRW&lt;'FC&amp;EVF&lt;7^S?3Z1&lt;WFO&gt;'6S,GRW9WRB=X-!#F"P;7ZU:8)A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">1094713474</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">3</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">269234176</Property>
+			</Item>
+			<Item Name="Memory.Pointer Static Method.vit" Type="VI" URL="../Methods/Memory.Pointer Static Method.vit">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;2!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%J!=!!?!!!V(%RB9F:*26=A476N&lt;X*Z)%VB&lt;G&amp;H:8)O&lt;(:M;7)7476N&lt;X*Z,F"P;7ZU:8)O&lt;(:D&lt;'&amp;T=Q!,5'^J&lt;H2F=C"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"+1(!!(A!!.2R-97*73568)%VF&lt;7^S?3".97ZB:W6S,GRW&lt;'FC&amp;EVF&lt;7^S?3Z1&lt;WFO&gt;'6S,GRW9WRB=X-!#F"P;7ZU:8)A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!A!!?!!!#1!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!!1!!!!!!%!#!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
@@ -325,6 +352,15 @@
 				<Property Name="NI.ClassItem.State" Type="Int">268967936</Property>
 			</Item>
 			<Item Name="Memory.Pointer.Read In Place.vi" Type="VI" URL="../Methods/Memory.Pointer.Read In Place.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0,N9))D!!%!!!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1074278928</Property>
+			</Item>
+			<Item Name="Memory.Pointer.Read Subset In Place.vi" Type="VI" URL="../Methods/Memory.Pointer.Read Subset In Place.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0,MPDE4!!%!!!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -333,7 +369,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1074278928</Property>
 			</Item>
-			<Item Name="Memory.Pointer.Read.vi" Type="VI" URL="../Methods/Memory.Pointer.Read.vi">
+			<Item Name="Memory.Pointer.Read Subset.vi" Type="VI" URL="../Methods/Memory.Pointer.Read Subset.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0)!!!!!!!%!!!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">-2147483648</Property>
@@ -363,4 +399,13 @@
 		</Item>
 	</Item>
 	<Item Name="Typedefs" Type="Folder"/>
+	<Item Name="Memory.Pointer.Read (safe).vi" Type="VI" URL="../Methods/Memory.Pointer.Read (safe).vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'1!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%5!%!!JC?82F=S"S:7&amp;E!!!&amp;!!5!!"R!1!!"`````Q!&amp;$G2T&gt;#"C&gt;7:G:8)A&lt;X6U!!"+1(!!(A!!.2R-97*73568)%VF&lt;7^S?3".97ZB:W6S,GRW&lt;'FC&amp;EVF&lt;7^S?3Z1&lt;WFO&gt;'6S,GRW9WRB=X-!#V"P;7ZU:8)A&lt;X6U!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%J!=!!?!!!V(%RB9F:*26=A476N&lt;X*Z)%VB&lt;G&amp;H:8)O&lt;(:M;7)7476N&lt;X*Z,F"P;7ZU:8)O&lt;(:D&lt;'&amp;T=Q!+5'^J&lt;H2F=C"J&lt;A!!91$Q!!Q!!Q!%!!9!"Q!)!!A!#!!)!!E!#!!)!!I$!!"Y!!!.#!!!#1!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">3</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">268967952</Property>
+	</Item>
 </LVClass>
