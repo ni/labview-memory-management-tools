@@ -11,10 +11,20 @@
 		<Item Name="Memory.Array.lvclass" Type="LVClass" URL="../Classes/Array/Memory.Array.lvclass"/>
 		<Item Name="Memory.Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Memory.Pointer.lvclass"/>
 	</Item>
+	<Item Name="Typedefs" Type="Folder"/>
 	<Item Name="VIs" Type="Folder">
 		<Item Name="CLFN" Type="Folder">
 			<Item Name="Memory.Clear.vi" Type="VI" URL="../VIs/Memory.Clear.vi"/>
 			<Item Name="Memory.Move.vi" Type="VI" URL="../VIs/Memory.Move.vi"/>
+		</Item>
+		<Item Name="Private" Type="Folder">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Item Name="Error Handler" Type="Folder">
+				<Item Name="Memory.Error Handler.Replace String in Source.vi" Type="VI" URL="../VIs/Memory.Error Handler.Replace String in Source.vi"/>
+				<Item Name="Memory.Error Handler.Set Error Code.vi" Type="VI" URL="../VIs/Memory.Error Handler.Set Error Code.vi"/>
+				<Item Name="Memory.Error Handler.Static Error Cluster.vi" Type="VI" URL="../Classes/Pointer/Methods/Memory.Error Handler.Static Error Cluster.vi"/>
+				<Item Name="Memory.Error Handler.vit" Type="VI" URL="../VIs/Memory.Error Handler.vit"/>
+			</Item>
 		</Item>
 		<Item Name="Memory.Truncate I32.vi" Type="VI" URL="../VIs/Memory.Truncate I32.vi"/>
 		<Item Name="Memory.Truncate I64 to I32.vi" Type="VI" URL="../VIs/Memory.Truncate I64 to I32.vi"/>
