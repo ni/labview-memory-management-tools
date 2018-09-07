@@ -19,12 +19,7 @@
 		</Item>
 		<Item Name="Private" Type="Folder">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-			<Item Name="Error Handler" Type="Folder">
-				<Item Name="Memory.Error Handler.Replace String in Source.vi" Type="VI" URL="../VIs/Memory.Error Handler.Replace String in Source.vi"/>
-				<Item Name="Memory.Error Handler.Set Error Code.vi" Type="VI" URL="../VIs/Memory.Error Handler.Set Error Code.vi"/>
-				<Item Name="Memory.Error Handler.Static Error Cluster.vi" Type="VI" URL="../Classes/Pointer/Methods/Memory.Error Handler.Static Error Cluster.vi"/>
-				<Item Name="Memory.Error Handler.vit" Type="VI" URL="../VIs/Memory.Error Handler.vit"/>
-			</Item>
+			<Item Name="Error Handler" Type="Folder"/>
 		</Item>
 		<Item Name="Memory.Truncate I32.vi" Type="VI" URL="../VIs/Memory.Truncate I32.vi"/>
 		<Item Name="Memory.Truncate I64 to I32.vi" Type="VI" URL="../VIs/Memory.Truncate I64 to I32.vi"/>
