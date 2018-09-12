@@ -13,6 +13,11 @@
 		<Item Name="Deterministic Errors.New Error Cluster (512B).vi" Type="VI" URL="../VIs/Deterministic Errors.New Error Cluster (512B).vi"/>
 		<Item Name="Deterministic Errors.New Error Cluster (1024B).vi" Type="VI" URL="../VIs/Deterministic Errors.New Error Cluster (1024B).vi"/>
 	</Item>
+	<Item Name="SubVIs" Type="Folder">
+		<Item Name="Deterministic Errors.To String.U8.vi" Type="VI" URL="../VIs/Deterministic Errors.To String.U8.vi"/>
+		<Item Name="Deterministic Errors.New Allocated String.vi" Type="VI" URL="../VIs/Deterministic Errors.New Allocated String.vi"/>
+		<Item Name="Deterministic Errors.New Allocated String (16B).vi" Type="VI" URL="../VIs/Deterministic Errors.New Allocated String (16B).vi"/>
+	</Item>
 	<Item Name="Deterministic Errors VI.vit" Type="VI" URL="../VIs/Deterministic Errors VI.vit"/>
 	<Item Name="Deterministic Errors.New Error Cluster.vi" Type="VI" URL="../VIs/Deterministic Errors.New Error Cluster.vi"/>
 	<Item Name="Deterministic Errors.Write String to Source.vi" Type="VI" URL="../VIs/Deterministic Errors.Write String to Source.vi"/>
@@ -21,4 +26,5 @@
 	<Item Name="Deterministic Errors.Set Error Description.vi" Type="VI" URL="../VIs/Deterministic Errors.Set Error Description.vi"/>
 	<Item Name="Deterministic Errors.Set Error Source.vi" Type="VI" URL="../VIs/Deterministic Errors.Set Error Source.vi"/>
 	<Item Name="Deterministic Errors.Set Error Status.vi" Type="VI" URL="../VIs/Deterministic Errors.Set Error Status.vi"/>
+	<Item Name="Deterministic Errors.Write Numeric Range to Source (U64).vi" Type="VI" URL="../VIs/Deterministic Errors.Write Numeric Range to Source (U64).vi"/>
 </Library>
