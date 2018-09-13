@@ -13,6 +13,17 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Examples" Type="Folder"/>
 		<Item Name="Testing" Type="Folder">
+			<Item Name="Benchmarking" Type="Folder">
+				<Item Name="Dynamic Dispatch" Type="Folder">
+					<Item Name="Classes" Type="Folder">
+						<Item Name="DD Child A.lvclass" Type="LVClass" URL="../Tests/Dynamic Dispatch/Classes/Child A/DD Child A.lvclass"/>
+						<Item Name="DD Child B.lvclass" Type="LVClass" URL="../Tests/Dynamic Dispatch/Classes/Child B/DD Child B.lvclass"/>
+						<Item Name="DD Parent.lvclass" Type="LVClass" URL="../Tests/Dynamic Dispatch/Classes/Parent/DD Parent.lvclass"/>
+					</Item>
+					<Item Name="Dynamic Dispatch.Dynamic.vi" Type="VI" URL="../Tests/Dynamic Dispatch/Dynamic Dispatch.Dynamic.vi"/>
+					<Item Name="Dynamic Dispatch.Static.vi" Type="VI" URL="../Tests/Dynamic Dispatch/Dynamic Dispatch.Static.vi"/>
+				</Item>
+			</Item>
 			<Item Name="Pointer" Type="Folder">
 				<Item Name="Pointer.Duration.vi" Type="VI" URL="../Tests/Pointer.Duration.vi"/>
 				<Item Name="Pointer.Throughput.vi" Type="VI" URL="../Tests/Pointer.Throughput.vi"/>
