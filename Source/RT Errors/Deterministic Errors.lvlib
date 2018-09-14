@@ -21,7 +21,7 @@
 	<Item Name="Deterministic Errors VI.vit" Type="VI" URL="../VIs/Deterministic Errors VI.vit"/>
 	<Item Name="Deterministic Errors.New Error Cluster.vi" Type="VI" URL="../VIs/Deterministic Errors.New Error Cluster.vi"/>
 	<Item Name="Deterministic Errors.Write String to Source.vi" Type="VI" URL="../VIs/Deterministic Errors.Write String to Source.vi"/>
-	<Item Name="Deterministic Errors.Write Integer to Source.vi" Type="VI" URL="../VIs/Deterministic Errors.Write Integer to Source.vi"/>
+	<Item Name="Deterministic Errors.Write Numeric to Source (U64).vi" Type="VI" URL="../VIs/Deterministic Errors.Write Numeric to Source (U64).vi"/>
 	<Item Name="Deterministic Errors.Set Error Code.vi" Type="VI" URL="../VIs/Deterministic Errors.Set Error Code.vi"/>
 	<Item Name="Deterministic Errors.Set Error Description.vi" Type="VI" URL="../VIs/Deterministic Errors.Set Error Description.vi"/>
 	<Item Name="Deterministic Errors.Set Error Source.vi" Type="VI" URL="../VIs/Deterministic Errors.Set Error Source.vi"/>

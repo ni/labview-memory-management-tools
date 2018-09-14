@@ -11,15 +11,4 @@
 		<Item Name="Memory.Array.lvclass" Type="LVClass" URL="../Classes/Array/Memory.Array.lvclass"/>
 		<Item Name="Memory.Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Memory.Pointer.lvclass"/>
 	</Item>
-	<Item Name="VIs" Type="Folder">
-		<Item Name="CLFN" Type="Folder">
-			<Item Name="Memory.Clear.vi" Type="VI" URL="../VIs/Memory.Clear.vi"/>
-			<Item Name="Memory.Move.vi" Type="VI" URL="../VIs/Memory.Move.vi"/>
-		</Item>
-		<Item Name="Memory.Truncate I32.vi" Type="VI" URL="../VIs/Memory.Truncate I32.vi"/>
-		<Item Name="Memory.Truncate I64 to I32.vi" Type="VI" URL="../VIs/Memory.Truncate I64 to I32.vi"/>
-		<Item Name="Memory.Truncate I64.vi" Type="VI" URL="../VIs/Memory.Truncate I64.vi"/>
-		<Item Name="Memory.Truncate U64.vi" Type="VI" URL="../VIs/Memory.Truncate U64.vi"/>
-	</Item>
-	<Item Name="Memory.Globals.vi" Type="VI" URL="../Memory.Globals.vi"/>
 </Library>

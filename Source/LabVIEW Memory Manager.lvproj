@@ -30,7 +30,7 @@
 			</Item>
 			<Item Name="VI Test.vi" Type="VI" URL="../Tests/VI Test.vi"/>
 		</Item>
-		<Item Name="Deterministic Error Builder.lvlib" Type="Library" URL="../RT Errors/Deterministic Error Builder.lvlib"/>
+		<Item Name="Deterministic Errors.lvlib" Type="Library" URL="../RT Errors/Deterministic Errors.lvlib"/>
 		<Item Name="LabVIEW Memory Manager.lvlib" Type="Library" URL="../Library/LabVIEW Memory Manager.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
