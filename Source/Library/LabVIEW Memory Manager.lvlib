@@ -9,6 +9,7 @@
 </Property>
 	<Item Name="Classes" Type="Folder">
 		<Item Name="Memory.Array.lvclass" Type="LVClass" URL="../Classes/Array/Memory.Array.lvclass"/>
+		<Item Name="Memory.Pointer.DBL.lvclass" Type="LVClass" URL="../Classes/Pointer.DBL/Memory.Pointer.DBL.lvclass"/>
 		<Item Name="Memory.Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Memory.Pointer.lvclass"/>
 	</Item>
 </Library>
