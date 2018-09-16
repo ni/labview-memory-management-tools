@@ -11,7 +11,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Examples" Type="Folder"/>
+		<Item Name="Examples" Type="Folder">
+			<Item Name="Memory Benchmark.vi" Type="VI" URL="../../Examples/Memory Benchmark.vi"/>
+		</Item>
 		<Item Name="Testing" Type="Folder">
 			<Item Name="Benchmarking" Type="Folder">
 				<Item Name="Dynamic Dispatch" Type="Folder">
@@ -26,7 +28,6 @@
 			</Item>
 			<Item Name="Pointer" Type="Folder">
 				<Item Name="Pointer.Duration.vi" Type="VI" URL="../Tests/Pointer.Duration.vi"/>
-				<Item Name="Pointer.Throughput.vi" Type="VI" URL="../Tests/Pointer.Throughput.vi"/>
 			</Item>
 			<Item Name="VI Test.vi" Type="VI" URL="../Tests/VI Test.vi"/>
 		</Item>
