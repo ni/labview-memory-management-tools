@@ -74,6 +74,19 @@
 				<Item Name="VI Scripting - Traverse.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/traverseref.llb/VI Scripting - Traverse.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="Memory.Pointer.Allocate.vi" Type="VI" URL="../Library/Classes/Pointer/Methods/Memory.Pointer.Allocate.vi"/>
+			<Item Name="Memory.Pointer.Dispose.vi" Type="VI" URL="../Library/Classes/Pointer/Methods/Memory.Pointer.Dispose.vi"/>
+			<Item Name="Memory.Pointer.Get Address.vi" Type="VI" URL="../Library/Classes/Pointer/Methods/Memory.Pointer.Get Address.vi"/>
+			<Item Name="Memory.Pointer.Get Size.vi" Type="VI" URL="../Library/Classes/Pointer/Methods/Memory.Pointer.Get Size.vi"/>
+			<Item Name="Memory.Pointer.Move Block.Unsafe.vi" Type="VI" URL="../Library/Classes/Pointer/Methods/Memory.Pointer.Move Block.Unsafe.vi"/>
+			<Item Name="Memory.Pointer.New.vi" Type="VI" URL="../Library/Classes/Pointer/Methods/Memory.Pointer.New.vi"/>
+			<Item Name="Memory.Pointer.Offset to Address.Unsafe.vi" Type="VI" URL="../Library/Classes/Pointer/Methods/Memory.Pointer.Offset to Address.Unsafe.vi"/>
+			<Item Name="Memory.Pointer.Read Bytes.In Place.Unsafe.vi" Type="VI" URL="../Library/Classes/Pointer/Methods/Memory.Pointer.Read Bytes.In Place.Unsafe.vi"/>
+			<Item Name="Memory.Pointer.Read Bytes.In Place.vi" Type="VI" URL="../Library/Classes/Pointer/Methods/Memory.Pointer.Read Bytes.In Place.vi"/>
+			<Item Name="Memory.Pointer.Set Address.vi" Type="VI" URL="../Library/Classes/Pointer/Methods/Memory.Pointer.Set Address.vi"/>
+			<Item Name="Memory.Pointer.Set Size.vi" Type="VI" URL="../Library/Classes/Pointer/Methods/Memory.Pointer.Set Size.vi"/>
+			<Item Name="Memory.Pointer.Void.ctl" Type="VI" URL="../Library/Classes/Pointer/Memory.Pointer.Void.lvclass/Memory.Pointer.Void.ctl"/>
+			<Item Name="Memory.Pointer.Void.lvclass" Type="LVClass" URL="../Library/Classes/Pointer/Memory.Pointer.Void.lvclass"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
