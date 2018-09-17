@@ -15,6 +15,9 @@
 				<Item Name="Memory.Pointer.U64.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.U64/Memory.Pointer.U64.lvclass"/>
 				<Item Name="Memory.Pointer.Bool.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.Bool/Memory.Pointer.Bool.lvclass"/>
 			</Item>
+			<Item Name="Numeric" Type="Folder">
+				<Item Name="Memory.Pointer.Numeric.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.Numeric/Memory.Pointer.Numeric.lvclass"/>
+			</Item>
 			<Item Name="Memory.Pointer.Void.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.Void/Memory.Pointer.Void.lvclass"/>
 		</Item>
 		<Item Name="Array" Type="Folder">
