@@ -14,6 +14,9 @@
 		<Item Name="Examples" Type="Folder">
 			<Item Name="Memory Benchmark.vi" Type="VI" URL="../../Examples/Memory Benchmark.vi"/>
 		</Item>
+		<Item Name="Scipts" Type="Folder">
+			<Item Name="Parse Control.vi" Type="VI" URL="../Scripts/Parse Control.vi"/>
+		</Item>
 		<Item Name="Testing" Type="Folder">
 			<Item Name="Benchmarking" Type="Folder">
 				<Item Name="Dynamic Dispatch" Type="Folder">
