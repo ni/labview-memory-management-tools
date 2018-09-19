@@ -23,6 +23,7 @@
 		<Item Name="Array" Type="Folder">
 			<Item Name="Standard Types" Type="Folder"/>
 			<Item Name="Memory.Array.Void.lvclass" Type="LVClass" URL="../Classes/Array/Array.Void/Memory.Array.Void.lvclass"/>
+			<Item Name="Memory.Array.Numeric.lvclass" Type="LVClass" URL="../Classes/Array/Array.Numeric/Memory.Array.Numeric.lvclass"/>
 		</Item>
 	</Item>
 </Library>
