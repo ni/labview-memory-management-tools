@@ -13,6 +13,7 @@
 			<Item Name="Standard Types" Type="Folder">
 				<Item Name="Memory.Pointer.DBL.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.DBL/Memory.Pointer.DBL.lvclass"/>
 				<Item Name="Memory.Pointer.U64.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.U64/Memory.Pointer.U64.lvclass"/>
+				<Item Name="Memory.Pointer.SGL.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.SGL/Memory.Pointer.SGL.lvclass"/>
 			</Item>
 			<Item Name="Numeric" Type="Folder">
 				<Item Name="Memory.Pointer.Numeric.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.Numeric/Memory.Pointer.Numeric.lvclass"/>
@@ -26,6 +27,13 @@
 			</Item>
 			<Item Name="Memory.Array.Void.lvclass" Type="LVClass" URL="../Classes/Array/Array.Void/Memory.Array.Void.lvclass"/>
 			<Item Name="Memory.Array.Numeric.lvclass" Type="LVClass" URL="../Classes/Array/Array.Numeric/Memory.Array.Numeric.lvclass"/>
+		</Item>
+	</Item>
+	<Item Name="VIs" Type="Folder">
+		<Item Name="Pointer" Type="Folder">
+			<Item Name="Memory.Pointer.New.vi" Type="VI" URL="../Classes/Pointer/Memory.Pointer.New.vi"/>
+			<Item Name="Memory.Pointer.Read.vi" Type="VI" URL="../Classes/Pointer/Memory.Pointer.Read.vi"/>
+			<Item Name="Memory.Pointer.Write.vi" Type="VI" URL="../Classes/Pointer/Memory.Pointer.Write.vi"/>
 		</Item>
 	</Item>
 </Library>
