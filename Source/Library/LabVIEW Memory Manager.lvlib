@@ -31,9 +31,9 @@
 	</Item>
 	<Item Name="VIs" Type="Folder">
 		<Item Name="Pointer" Type="Folder">
-			<Item Name="Memory.Pointer.New.vi" Type="VI" URL="../Classes/Pointer/Memory.Pointer.New.vi"/>
-			<Item Name="Memory.Pointer.Read.vi" Type="VI" URL="../Classes/Pointer/Memory.Pointer.Read.vi"/>
-			<Item Name="Memory.Pointer.Write.vi" Type="VI" URL="../Classes/Pointer/Memory.Pointer.Write.vi"/>
+			<Item Name="Memory.Pointer.Numeric.New.vi" Type="VI" URL="../Classes/Pointer/Memory.Pointer.Numeric.New.vi"/>
+			<Item Name="Memory.Pointer.Numeric.Read.vi" Type="VI" URL="../Classes/Pointer/Memory.Pointer.Numeric.Read.vi"/>
+			<Item Name="Memory.Pointer.Numeric.Write.vi" Type="VI" URL="../Classes/Pointer/Memory.Pointer.Numeric.Write.vi"/>
 		</Item>
 	</Item>
 </Library>
