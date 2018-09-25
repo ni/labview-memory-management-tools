@@ -12,6 +12,7 @@
 		<Item Name="Pointer" Type="Folder">
 			<Item Name="Standard Types" Type="Folder">
 				<Item Name="Memory.Pointer.DBL.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.DBL/Memory.Pointer.DBL.lvclass"/>
+				<Item Name="Memory.Pointer.Bool.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.Bool/Memory.Pointer.Bool.lvclass"/>
 				<Item Name="Memory.Pointer.U64.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.U64/Memory.Pointer.U64.lvclass"/>
 				<Item Name="Memory.Pointer.SGL.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.SGL/Memory.Pointer.SGL.lvclass"/>
 			</Item>
@@ -19,7 +20,6 @@
 				<Item Name="Memory.Pointer.Numeric.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.Numeric/Memory.Pointer.Numeric.lvclass"/>
 			</Item>
 			<Item Name="Memory.Pointer.Void.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.Void/Memory.Pointer.Void.lvclass"/>
-			<Item Name="Memory.Pointer.Bool.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.Bool/Memory.Pointer.Bool.lvclass"/>
 		</Item>
 		<Item Name="Array" Type="Folder">
 			<Item Name="Standard Types" Type="Folder">
