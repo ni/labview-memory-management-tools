@@ -282,7 +282,6 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="VI Test.vi" Type="VI" URL="../Tests/VI Test.vi"/>
 		</Item>
-		<Item Name="Deterministic Errors.lvlib" Type="Library" URL="../RT Errors/Deterministic Errors.lvlib"/>
 		<Item Name="LabVIEW Memory Manager.lvlib" Type="Library" URL="../Library/LabVIEW Memory Manager.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -323,6 +322,7 @@ AddOutputFilter chunkFilter
 				<Item Name="VI Scripting - Traverse.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/traverseref.llb/VI Scripting - Traverse.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="RT Error Handling.lvlib" Type="Library" URL="../../../RT-Error-Handling/Source/RT Error Handling.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
