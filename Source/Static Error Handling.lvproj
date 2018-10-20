@@ -4,6 +4,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">1</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -17,6 +18,7 @@
 			<Item Name="Benchmarking.Integer to String.vi" Type="VI" URL="../Benchmarking/Benchmarking.Integer to String.vi"/>
 			<Item Name="Static Error Handling.To String.Integer.Decimal.I8 v2.vi" Type="VI" URL="../Benchmarking/Static Error Handling.To String.Integer.Decimal.I8 v2.vi"/>
 		</Item>
+		<Item Name="RT Error Handling.vipb" Type="Document" URL="../RT Error Handling.vipb"/>
 		<Item Name="Static Error Handling.lvlib" Type="Library" URL="../Library/Static Error Handling.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
