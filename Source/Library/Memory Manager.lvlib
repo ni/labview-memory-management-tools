@@ -8,25 +8,38 @@
 
 </Property>
 	<Item Name="Classes" Type="Folder">
-		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="Pointer" Type="Folder">
-			<Item Name="Standard Types" Type="Folder">
-				<Item Name="Memory.Pointer.DBL.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.DBL/Memory.Pointer.DBL.lvclass"/>
-				<Item Name="Memory.Pointer.Bool.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.Bool/Memory.Pointer.Bool.lvclass"/>
-				<Item Name="Memory.Pointer.U64.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.U64/Memory.Pointer.U64.lvclass"/>
-				<Item Name="Memory.Pointer.SGL.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.SGL/Memory.Pointer.SGL.lvclass"/>
-			</Item>
-			<Item Name="Numeric" Type="Folder">
-				<Item Name="Memory.Pointer.Numeric.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.Numeric/Memory.Pointer.Numeric.lvclass"/>
-			</Item>
-			<Item Name="Memory.Pointer.Void.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.Void/Memory.Pointer.Void.lvclass"/>
-		</Item>
 		<Item Name="Array" Type="Folder">
 			<Item Name="Standard Types" Type="Folder">
 				<Item Name="Memory.Array.Numeric.DBL.lvclass" Type="LVClass" URL="../Classes/Array/Array.Numeric.DBL/Memory.Array.Numeric.DBL.lvclass"/>
 			</Item>
-			<Item Name="Memory.Array.Void.lvclass" Type="LVClass" URL="../Classes/Array/Array.Void/Memory.Array.Void.lvclass"/>
 			<Item Name="Memory.Array.Numeric.lvclass" Type="LVClass" URL="../Classes/Array/Array.Numeric/Memory.Array.Numeric.lvclass"/>
+			<Item Name="Memory.Array.Void.lvclass" Type="LVClass" URL="../Classes/Array/Array.Void/Memory.Array.Void.lvclass"/>
+		</Item>
+		<Item Name="Pointer" Type="Folder">
+			<Item Name="Standard Types" Type="Folder">
+				<Item Name="Boolean" Type="Folder">
+					<Item Name="Memory.Pointer.Bool.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.Bool/Memory.Pointer.Bool.lvclass"/>
+				</Item>
+				<Item Name="Numeric" Type="Folder">
+					<Item Name="Types" Type="Folder">
+						<Item Name="Memory.Pointer.DBL.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.DBL/Memory.Pointer.DBL.lvclass"/>
+						<Item Name="Memory.Pointer.SGL.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.SGL/Memory.Pointer.SGL.lvclass"/>
+						<Item Name="Memory.Pointer.U8.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.U8/Memory.Pointer.U8.lvclass"/>
+						<Item Name="Memory.Pointer.U64.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.U64/Memory.Pointer.U64.lvclass"/>
+					</Item>
+					<Item Name="Memory.Pointer.Numeric.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.Numeric/Memory.Pointer.Numeric.lvclass">
+						<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+					</Item>
+				</Item>
+				<Item Name="String" Type="Folder"/>
+			</Item>
+			<Item Name="Memory.Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer/Memory.Pointer.lvclass"/>
+			<Item Name="Memory.Pointer.Void.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.Void/Memory.Pointer.Void.lvclass"/>
+		</Item>
+	</Item>
+	<Item Name="Constants" Type="Folder">
+		<Item Name="Memory.Constants.vi" Type="VI" URL="../Memory.Constants.vi">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
 	</Item>
 	<Item Name="VIs" Type="Folder">
