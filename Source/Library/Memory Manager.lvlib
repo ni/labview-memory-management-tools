@@ -8,7 +8,11 @@
 
 </Property>
 	<Item Name="Classes" Type="Folder">
-		<Item Name="Memory.Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Memory.Pointer.lvclass"/>
+		<Item Name="Pointer" Type="Folder">
+			<Item Name="Memory.Pointer.External.lvclass" Type="LVClass" URL="../Classes/Pointer.External/Memory.Pointer.External.lvclass"/>
+			<Item Name="Memory.Pointer.Internal.lvclass" Type="LVClass" URL="../Classes/Pointer.Internal/Memory.Pointer.Internal.lvclass"/>
+			<Item Name="Memory.Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Memory.Pointer.lvclass"/>
+		</Item>
 	</Item>
 	<Item Name="Constants" Type="Folder">
 		<Item Name="Memory.Constants.vi" Type="VI" URL="../Memory.Constants.vi">
