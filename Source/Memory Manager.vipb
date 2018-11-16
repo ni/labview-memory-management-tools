@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2018-11-16 13:12:35" Creator="Ryan" Comments="" ID="ef4dae793530c25fc8b58aca7252df0c">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2018-11-16 14:19:05" Creator="Ryan" Comments="" ID="22ac19ce321601c1ddadd36c21352da9">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_lv_mem_manager</Package_File_Name>
     <Library_Version>0.2.0.2</Library_Version>
@@ -193,9 +193,9 @@ Initial build. Includes support for:
         <Syncing_MNU_file/>
       </Controls_Palette_Information>
       <Functions_Palette_Information>
-        <Virtual_Palette_Base_Path>Functions\Addons</Virtual_Palette_Base_Path>
-        <Palette_Disk_Base_Path>&lt;vi.lib&gt;\addons</Palette_Disk_Base_Path>
-        <Syncing_MNU_file/>
+        <Virtual_Palette_Base_Path>Functions\Programming</Virtual_Palette_Base_Path>
+        <Palette_Disk_Base_Path>&lt;menus&gt;\Categories\Programming</Palette_Disk_Base_Path>
+        <Syncing_MNU_file>&lt;menus&gt;\Categories\Programming\dir.mnu</Syncing_MNU_file>
       </Functions_Palette_Information>
       <Apply_Short_Names_to_VI_Titles>false</Apply_Short_Names_to_VI_Titles>
       <Apply_Short_Names_to_VI_Titles_2>false</Apply_Short_Names_to_VI_Titles_2>
