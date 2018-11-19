@@ -15,8 +15,8 @@
 		</Item>
 	</Item>
 	<Item Name="Constants" Type="Folder">
-		<Item Name="Memory.Constants.vi" Type="VI" URL="../Memory.Constants.vi">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		</Item>
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Memory.Constants.Library Name.vi" Type="VI" URL="../Constants/Memory.Constants.Library Name.vi"/>
+		<Item Name="Memory.Constants.vi" Type="VI" URL="../Constants/Memory.Constants.vi"/>
 	</Item>
 </Library>
