@@ -1,0 +1,3 @@
+[submodule "Source/Submodules/Static Error Handling"]
+	path = Source/Submodules/Static Error Handling
+	url = https://github.com/ryanpopo/LabVIEW-Static-Error-Handling
