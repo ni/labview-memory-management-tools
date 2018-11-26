@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2018-11-19 10:31:32" Creator="Ryan" Comments="" ID="7fe74c3f87cbfcc5f490c15eece5d5fd">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2018-11-19 11:10:10" Creator="Ryan" Comments="" ID="508ab64a864d87576244545d0ad7a464">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_lv_mem_manager</Package_File_Name>
-    <Library_Version>0.2.0.4</Library_Version>
+    <Library_Version>0.2.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\..\..\..\..\builds</Library_Output_Folder>
@@ -117,12 +117,6 @@ Initial build. Includes support for:
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
       <Destination_Overrides>
-        <Path>Examples/Memory Benchmark.vi</Path>
-        <Destination>1</Destination>
-        <Additional_Destination>false</Additional_Destination>
-        <Additional_Destination_Index>0</Additional_Destination_Index>
-      </Destination_Overrides>
-      <Destination_Overrides>
         <Path>Source/Library</Path>
         <Destination>0</Destination>
         <Additional_Destination>false</Additional_Destination>
@@ -143,6 +137,12 @@ Initial build. Includes support for:
       <Destination_Overrides>
         <Path>Examples/Memory Benchmark</Path>
         <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Source/Submodules</Path>
+        <Destination>0</Destination>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
@@ -170,6 +170,24 @@ Initial build. Includes support for:
       </Exclusions>
       <Exclusions>
         <Path>Source/Memory Manager.lvproj</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Source/Submodules/Static Error Handling/.git</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Source/Submodules/Static Error Handling/.gitignore</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Source/Submodules/Static Error Handling/LICENSE</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Source/Submodules/Static Error Handling/README.md</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Source/Submodules/Static Error Handling/Source/Benchmarking</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Source/Submodules/Static Error Handling/Source/Static Error Handling.lvproj</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\LICENSE</License_Agreement_Filepath>
@@ -270,7 +288,7 @@ Initial build. Includes support for:
         <Path>..\Pointer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>457537A1071D4593744C8212E33B794B</GUID>
+      <GUID>264081E9E41BBAEC8937643686BC935F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -431,7 +449,7 @@ Initial build. Includes support for:
         <Path>..\Accessors</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9D822BC378EECBA9A7EFDB6FCE625349</GUID>
+      <GUID>3AB2DEA66C81892AB8423864F7F43D5B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -508,7 +526,7 @@ Initial build. Includes support for:
         <Path>Library\Classes\Pointer\Accessors\Set Size.vi</Path>
         <VI_Title>Set Size</VI_Title>
       </Items_Data>
-      <GUID>6D62A677CA1F1EBC848D97D0B2F108D1</GUID>
+      <GUID>40F7BDE5075E7825E61C6AAC71EA7E35</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
