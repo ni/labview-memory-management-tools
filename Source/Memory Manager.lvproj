@@ -18,7 +18,6 @@
 			<Item Name="Pointer" Type="Folder">
 				<Item Name="Pointer.Duration.vi" Type="VI" URL="../Tests/Pointer.Duration.vi"/>
 			</Item>
-			<Item Name="VI Test.vi" Type="VI" URL="../Tests/VI Test.vi"/>
 		</Item>
 		<Item Name="Memory Manager.lvlib" Type="Library" URL="../Library/Memory Manager.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
