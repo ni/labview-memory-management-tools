@@ -1022,7 +1022,7 @@
 					</Item>
 				</Item>
 			</Item>
-			<Item Name="Memory.Pointer.Check.vi" Type="VI" URL="../Memory.Pointer.Check.vi">
+			<Item Name="Memory.Pointer.Check.vi" Type="VI" URL="../Methods/Memory.Pointer.Check.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;E!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!":!)2"-97*73568)("P;7ZU:8)`!!"#1(!!(A!!,22.:7VP=HEA47&amp;O97&gt;F=CZM&gt;GRJ9B:.:7VP=HEO5'^J&lt;H2F=CZM&gt;G.M98.T!!NQ&lt;WFO&gt;'6S)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%*!=!!?!!!N&amp;%VF&lt;7^S?3".97ZB:W6S,GRW&lt;'FC&amp;EVF&lt;7^S?3Z1&lt;WFO&gt;'6S,GRW9WRB=X-!#H"P;7ZU:8)A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!Q!!?!!!$1A!!!!!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!E!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
