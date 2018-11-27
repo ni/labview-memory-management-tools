@@ -19,7 +19,4 @@
 		<Item Name="Memory.Constants.Library Name.vi" Type="VI" URL="../Constants/Memory.Constants.Library Name.vi"/>
 		<Item Name="Memory.Constants.vi" Type="VI" URL="../Constants/Memory.Constants.vi"/>
 	</Item>
-	<Item Name="VIs" Type="Folder">
-		<Item Name="Memory.Stats.vi" Type="VI" URL="../VIs/Memory.Stats.vi"/>
-	</Item>
 </Library>
