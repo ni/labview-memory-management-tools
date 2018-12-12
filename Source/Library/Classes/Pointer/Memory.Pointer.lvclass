@@ -192,7 +192,7 @@
 					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 					<Property Name="NI.ClassItem.State" Type="Int">8388608</Property>
 				</Item>
-				<Item Name="Memory.Pointer.Parameter Check.Size.1D (Power of 2).vi" Type="VI" URL="../Methods/Memory.Pointer.Parameter Check.Size.1D (Power of 2).vi">
+				<Item Name="Memory.Pointer.Parameter Check.Size.1D.Power of 2.vi" Type="VI" URL="../Methods/Memory.Pointer.Parameter Check.Size.1D.Power of 2.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(@!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!'5!)!"*U=G&amp;O=W:F=C"D&lt;X6O&gt;#"P&gt;81!!"^!#!!99H6G:G6S)'6M:7VF&lt;H1A9W^V&lt;H1A&lt;X6U!!"#1(!!(A!!,22.:7VP=HEA47&amp;O97&gt;F=CZM&gt;GRJ9B:.:7VP=HEO5'^J&lt;H2F=CZM&gt;G.M98.T!!N1&lt;WFO&gt;'6S)'^V&gt;!!%!!!!%5!#!!JQ&lt;X&gt;F=C"P:C!S!!!91$$`````$H.P&gt;8*D:3"W;3"O97VF!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"6!#!!/&gt;(*B&lt;H.G:8)A9W^V&lt;H1!!"N!#!!59H6G:G6S)'6M:7VF&lt;H1A9W^V&lt;H1!!%*!=!!?!!!N&amp;%VF&lt;7^S?3".97ZB:W6S,GRW&lt;'FC&amp;EVF&lt;7^S?3Z1&lt;WFO&gt;'6S,GRW9WRB=X-!#F"P;7ZU:8)A;7Y!!'%!]!!-!!-!"!!&amp;!!9!"Q!)!!=!#1!+!!M!$!!.!A!!?!!!$1A!!!U*!!!.#A!!$1M!!!!!!!!1!!!!!!!!!B!!!!!+!!!!%!!!!"!!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!Y!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
