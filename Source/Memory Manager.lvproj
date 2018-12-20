@@ -15,11 +15,10 @@
 			<Item Name="Static Error Handling.lvlib" Type="Library" URL="../Submodules/Static Error Handling/Source/Library/Static Error Handling.lvlib"/>
 		</Item>
 		<Item Name="Testing" Type="Folder">
-			<Item Name="Pointer" Type="Folder">
-				<Item Name="Pointer.Duration.vi" Type="VI" URL="../Tests/Pointer.Duration.vi"/>
-			</Item>
+			<Item Name="Pointer" Type="Folder"/>
 		</Item>
 		<Item Name="Memory Manager.lvlib" Type="Library" URL="../Library/Memory Manager.lvlib"/>
+		<Item Name="Pointer.Duration.vi" Type="VI" URL="../Tests/Pointer.Duration.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
