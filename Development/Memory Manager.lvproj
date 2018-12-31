@@ -13,14 +13,14 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Submodules" Type="Folder">
-			<Item Name="Static Error Handling.lvlib" Type="Library" URL="../Submodules/Static Error Handling/Source/Library/Static Error Handling.lvlib"/>
+			<Item Name="Static Error Handling.lvlib" Type="Library" URL="../../Source/Submodules/Static Error Handling/Source/Library/Static Error Handling.lvlib"/>
 		</Item>
 		<Item Name="Testing" Type="Folder">
 			<Item Name="Pointer" Type="Folder">
 				<Item Name="Pointer.Duration.vi" Type="VI" URL="../Tests/Pointer.Duration.vi"/>
 			</Item>
 		</Item>
-		<Item Name="Memory Manager.lvlib" Type="Library" URL="../Library/Memory Manager.lvlib"/>
+		<Item Name="Memory Manager.lvlib" Type="Library" URL="../../Source/Memory Manager.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
