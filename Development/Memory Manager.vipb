@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2018-12-31 14:04:39" Creator="Ryan" Comments="" ID="f8b7bf567b52f0811c3e327afb3d3344">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2018-12-31 14:06:53" Creator="Ryan" Comments="" ID="7df4b91ae3abec99d0e06e376e705f97">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_lv_mem_manager</Package_File_Name>
     <Library_Version>0.3.0.7</Library_Version>
@@ -192,6 +192,21 @@ Initial build. Includes support for:
       <Exclusions>
         <Path>.gitmodules</Path>
       </Exclusions>
+      <Exclusions>
+        <Path>Source/Submodules/SEH/Development</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Source/Submodules/SEH/.git</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Source/Submodules/SEH/.gitignore</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Source/Submodules/SEH/LICENSE</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Source/Submodules/SEH/README.md</Path>
+      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\LICENSE</License_Agreement_Filepath>
     <Licensing_and_Activation>
@@ -291,7 +306,7 @@ Initial build. Includes support for:
         <Path>..\Pointer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B4B92615830F6C351A6F619626A140C4</GUID>
+      <GUID>0A11FD4BDB823441B9389BDAB505C476</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -480,7 +495,7 @@ Initial build. Includes support for:
         <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Check.vi</Path>
         <VI_Title>Check</VI_Title>
       </Items_Data>
-      <GUID>65E95CB27D61A17075FD41C068903B83</GUID>
+      <GUID>DFC815140ECCA0AF0FDC9DCD82A9A568</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -557,7 +572,7 @@ Initial build. Includes support for:
         <Path>..\Source\Classes\Pointer\Accessors\Set Size.vi</Path>
         <VI_Title>Set Size</VI_Title>
       </Items_Data>
-      <GUID>A67A81A66BB68E06074FBDACDDF9333D</GUID>
+      <GUID>232886C30625847EA04E05BE3AC31ADD</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
