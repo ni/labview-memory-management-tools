@@ -1,0 +1,4 @@
+[submodule "Source/Submodules/SEH"]
+	path = Source/Submodules/SEH
+	url = https://github.com/ryanpoulos/LabVIEW-Static-Error-Handling
+	branch = master
