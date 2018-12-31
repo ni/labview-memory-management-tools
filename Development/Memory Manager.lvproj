@@ -13,7 +13,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Submodules" Type="Folder">
-			<Item Name="Static Error Handling.lvlib" Type="Library" URL="../../Source/Submodules/Static Error Handling/Source/Library/Static Error Handling.lvlib"/>
+			<Item Name="Static Error Handling.lvlib" Type="Library" URL="../../Source/Submodules/SEH/Source/Static Error Handling.lvlib"/>
 		</Item>
 		<Item Name="Testing" Type="Folder">
 			<Item Name="Pointer" Type="Folder">

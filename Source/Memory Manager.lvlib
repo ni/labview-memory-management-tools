@@ -9,18 +9,18 @@
 </Property>
 	<Item Name="Classes" Type="Folder">
 		<Item Name="Pointer" Type="Folder">
-			<Item Name="Memory.Pointer.External.lvclass" Type="LVClass" URL="../Library/Classes/Pointer.External/Memory.Pointer.External.lvclass"/>
-			<Item Name="Memory.Pointer.Internal.lvclass" Type="LVClass" URL="../Library/Classes/Pointer.Internal/Memory.Pointer.Internal.lvclass"/>
-			<Item Name="Memory.Pointer.lvclass" Type="LVClass" URL="../Library/Classes/Pointer/Memory.Pointer.lvclass"/>
+			<Item Name="Memory.Pointer.External.lvclass" Type="LVClass" URL="../Classes/Pointer.External/Memory.Pointer.External.lvclass"/>
+			<Item Name="Memory.Pointer.Internal.lvclass" Type="LVClass" URL="../Classes/Pointer.Internal/Memory.Pointer.Internal.lvclass"/>
+			<Item Name="Memory.Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Memory.Pointer.lvclass"/>
 		</Item>
 	</Item>
 	<Item Name="Constants" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Memory.Constants.Library Name.vi" Type="VI" URL="../Library/Constants/Memory.Constants.Library Name.vi"/>
-		<Item Name="Memory.Constants.vi" Type="VI" URL="../Library/Constants/Memory.Constants.vi"/>
+		<Item Name="Memory.Constants.Library Name.vi" Type="VI" URL="../Constants/Memory.Constants.Library Name.vi"/>
+		<Item Name="Memory.Constants.vi" Type="VI" URL="../Constants/Memory.Constants.vi"/>
 	</Item>
 	<Item Name="VIs" Type="Folder">
-		<Item Name="Memory.Count to Size.Power of 2.vi" Type="VI" URL="../Library/VIs/Memory.Count to Size.Power of 2.vi"/>
-		<Item Name="Memory.Size to Count.Power of 2.vi" Type="VI" URL="../Library/VIs/Memory.Size to Count.Power of 2.vi"/>
+		<Item Name="Memory.Count to Size.Power of 2.vi" Type="VI" URL="../VIs/Memory.Count to Size.Power of 2.vi"/>
+		<Item Name="Memory.Size to Count.Power of 2.vi" Type="VI" URL="../VIs/Memory.Size to Count.Power of 2.vi"/>
 	</Item>
 </Library>
