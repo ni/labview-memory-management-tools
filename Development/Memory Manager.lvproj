@@ -21,7 +21,17 @@
 			</Item>
 		</Item>
 		<Item Name="Memory Manager.lvlib" Type="Library" URL="../../Source/Memory Manager.lvlib"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Memory Manager.vipb" Type="Document" URL="../Memory Manager.vipb"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="Static Error Handling.Error Cluster Constant.vi" Type="VI" URL="../../Source/Submodules/Static Error Handling/Source/Library/VIs/Static Error Handling.Error Cluster Constant.vi"/>
+			<Item Name="Static Error Handling.Error Cluster Constant (256B).vi" Type="VI" URL="../../Source/Submodules/Static Error Handling/Source/Library/VIs/Static Error Handling.Error Cluster Constant (256B).vi"/>
+			<Item Name="Static Error Handling.Parameters.Status.Set.vi" Type="VI" URL="../../Source/Submodules/Static Error Handling/Source/Library/VIs/Static Error Handling.Parameters.Status.Set.vi"/>
+			<Item Name="Static Error Handling.Parameters.Code.Set.vi" Type="VI" URL="../../Source/Submodules/Static Error Handling/Source/Library/VIs/Static Error Handling.Parameters.Code.Set.vi"/>
+			<Item Name="Static Error Handling.Parameters.VI Source.Set.vi" Type="VI" URL="../../Source/Submodules/Static Error Handling/Source/Library/VIs/Static Error Handling.Parameters.VI Source.Set.vi"/>
+			<Item Name="Static Error Handling.Source Buffer.Write.String.vi" Type="VI" URL="../../Source/Submodules/Static Error Handling/Source/Library/VIs/Static Error Handling.Source Buffer.Write.String.vi"/>
+			<Item Name="Static Error Handling.Source Buffer.Write.Numeric.Scalar.Base10.vi" Type="VI" URL="../../Source/Submodules/Static Error Handling/Source/Library/VIs/Static Error Handling.Source Buffer.Write.Numeric.Scalar.Base10.vi"/>
+			<Item Name="Static Error Handling.Source Buffer.Write.Numeric.Scalar.Base10 (U64).vi" Type="VI" URL="../../Source/Submodules/Static Error Handling/Source/Library/VIs/Static Error Handling.Source Buffer.Write.Numeric.Scalar.Base10 (U64).vi"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>

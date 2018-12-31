@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2018-11-28 11:54:14" Creator="Ryan" Comments="" ID="9f3a55969768270e784446d686412603">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2018-12-31 14:04:39" Creator="Ryan" Comments="" ID="f8b7bf567b52f0811c3e327afb3d3344">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_lv_mem_manager</Package_File_Name>
-    <Library_Version>0.3.0.6</Library_Version>
+    <Library_Version>0.3.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\..\..\..\..\builds</Library_Output_Folder>
@@ -120,12 +120,6 @@ Initial build. Includes support for:
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
       <Destination_Overrides>
-        <Path>Source/Library</Path>
-        <Destination>0</Destination>
-        <Additional_Destination>false</Additional_Destination>
-        <Additional_Destination_Index>0</Additional_Destination_Index>
-      </Destination_Overrides>
-      <Destination_Overrides>
         <Path>Examples</Path>
         <Destination>1</Destination>
         <Additional_Destination>false</Additional_Destination>
@@ -145,6 +139,30 @@ Initial build. Includes support for:
       </Destination_Overrides>
       <Destination_Overrides>
         <Path>Source/Submodules</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Source/Classes</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Source/Constants</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Source/VIs</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Source/Memory Manager.lvlib</Path>
         <Destination>0</Destination>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
@@ -169,28 +187,10 @@ Initial build. Includes support for:
         <Path>README.md</Path>
       </Exclusions>
       <Exclusions>
-        <Path>Source/Tests</Path>
+        <Path>Development</Path>
       </Exclusions>
       <Exclusions>
-        <Path>Source/Memory Manager.lvproj</Path>
-      </Exclusions>
-      <Exclusions>
-        <Path>Source/Submodules/Static Error Handling/.git</Path>
-      </Exclusions>
-      <Exclusions>
-        <Path>Source/Submodules/Static Error Handling/.gitignore</Path>
-      </Exclusions>
-      <Exclusions>
-        <Path>Source/Submodules/Static Error Handling/LICENSE</Path>
-      </Exclusions>
-      <Exclusions>
-        <Path>Source/Submodules/Static Error Handling/README.md</Path>
-      </Exclusions>
-      <Exclusions>
-        <Path>Source/Submodules/Static Error Handling/Source/Benchmarking</Path>
-      </Exclusions>
-      <Exclusions>
-        <Path>Source/Submodules/Static Error Handling/Source/Static Error Handling.lvproj</Path>
+        <Path>.gitmodules</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\LICENSE</License_Agreement_Filepath>
@@ -291,7 +291,7 @@ Initial build. Includes support for:
         <Path>..\Pointer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D8BA60A9BC283974E61AD47043761CA4</GUID>
+      <GUID>B4B92615830F6C351A6F619626A140C4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -323,7 +323,7 @@ Initial build. Includes support for:
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Library\Classes\Pointer.Internal\Methods\Memory.Pointer.Internal.New.vi</Path>
+        <Path>..\Source\Classes\Pointer.Internal\Methods\Memory.Pointer.Internal.New.vi</Path>
         <VI_Title>New</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -337,7 +337,7 @@ Initial build. Includes support for:
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Library\Classes\Pointer.Internal\Methods\Memory.Pointer.Internal.Dispose.vi</Path>
+        <Path>..\Source\Classes\Pointer.Internal\Methods\Memory.Pointer.Internal.Dispose.vi</Path>
         <VI_Title>Dispose</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -351,7 +351,7 @@ Initial build. Includes support for:
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Library\Classes\Pointer.Internal\Methods\Memory.Pointer.Internal.Swap.vi</Path>
+        <Path>..\Source\Classes\Pointer.Internal\Methods\Memory.Pointer.Internal.Swap.vi</Path>
         <VI_Title>Swap</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -365,7 +365,7 @@ Initial build. Includes support for:
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Library\Classes\Pointer\Methods\Memory.Pointer.Copy.vi</Path>
+        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Copy.vi</Path>
         <VI_Title>Copy</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -379,7 +379,7 @@ Initial build. Includes support for:
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Library\Classes\Pointer\Methods\Memory.Pointer.Copy All.vi</Path>
+        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Copy All.vi</Path>
         <VI_Title>Copy All</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -393,7 +393,7 @@ Initial build. Includes support for:
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Library\Classes\Pointer\Methods\Memory.Pointer.Duplicate.vi</Path>
+        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Duplicate.vi</Path>
         <VI_Title>Duplicate</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -407,7 +407,7 @@ Initial build. Includes support for:
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Library\Classes\Pointer\Methods\Memory.Pointer.Write.vi</Path>
+        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Write.vi</Path>
         <VI_Title>Write</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -421,7 +421,7 @@ Initial build. Includes support for:
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Library\Classes\Pointer\Methods\Memory.Pointer.Read.vi</Path>
+        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Read.vi</Path>
         <VI_Title>Read</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -435,7 +435,7 @@ Initial build. Includes support for:
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Library\Classes\Pointer.External\Methods\Memory.Pointer.External.Encapsulate.vi</Path>
+        <Path>..\Source\Classes\Pointer.External\Methods\Memory.Pointer.External.Encapsulate.vi</Path>
         <VI_Title>Encapsulate</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -463,7 +463,7 @@ Initial build. Includes support for:
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Library\Classes\Pointer\Methods\Memory.Pointer.Clear.vi</Path>
+        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Clear.vi</Path>
         <VI_Title>Clear</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -477,10 +477,10 @@ Initial build. Includes support for:
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Library\Classes\Pointer\Methods\Memory.Pointer.Check.vi</Path>
+        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Check.vi</Path>
         <VI_Title>Check</VI_Title>
       </Items_Data>
-      <GUID>E16BFF2F51A6641DEAF07120F499983B</GUID>
+      <GUID>65E95CB27D61A17075FD41C068903B83</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -512,7 +512,7 @@ Initial build. Includes support for:
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Library\Classes\Pointer\Accessors\Get Address.vi</Path>
+        <Path>..\Source\Classes\Pointer\Accessors\Get Address.vi</Path>
         <VI_Title>Get Address</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -526,7 +526,7 @@ Initial build. Includes support for:
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Library\Classes\Pointer\Accessors\Get Size.vi</Path>
+        <Path>..\Source\Classes\Pointer\Accessors\Get Size.vi</Path>
         <VI_Title>Get Size</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -540,7 +540,7 @@ Initial build. Includes support for:
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Library\Classes\Pointer\Accessors\Set Address.vi</Path>
+        <Path>..\Source\Classes\Pointer\Accessors\Set Address.vi</Path>
         <VI_Title>Set Address</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -554,10 +554,10 @@ Initial build. Includes support for:
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>Library\Classes\Pointer\Accessors\Set Size.vi</Path>
+        <Path>..\Source\Classes\Pointer\Accessors\Set Size.vi</Path>
         <VI_Title>Set Size</VI_Title>
       </Items_Data>
-      <GUID>4DDBC3CFBBE9EF6A76FDD45840CC5F52</GUID>
+      <GUID>A67A81A66BB68E06074FBDACDDF9333D</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
