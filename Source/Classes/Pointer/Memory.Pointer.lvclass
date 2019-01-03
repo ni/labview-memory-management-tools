@@ -722,7 +722,16 @@
 				</Item>
 			</Item>
 			<Item Name="Type Cast" Type="Folder">
-				<Item Name="Memory.Pointer.Type Cast.vi" Type="VI" URL="../Methods/Memory.Pointer.Type Cast.vi">
+				<Item Name="Memory.Pointer.Type Cast.Safe.vi" Type="VI" URL="../Methods/Memory.Pointer.Type Cast.Safe.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+;!!!!%1"'1(!!(A!!,22.:7VP=HEA47&amp;O97&gt;F=CZM&gt;GRJ9B:.:7VP=HEO5'^J&lt;H2F=CZM&gt;G.M98.T!!ZT=G-A='^J&lt;H2F=C"J&lt;A!!$U!)!!FE=X1A&gt;WFE&gt;'A!$U!)!!FT=G-A&gt;WFE&gt;'A!/5!7!!)+9GFH,76O:'FB&lt;AVM;82U&lt;'5N:7ZE;7&amp;O!!!89HFU:3"P=G2F=C!I9GFH,76O:'FB&lt;CE!2E"Q!"Y!!#U5476N&lt;X*Z)%VB&lt;G&amp;H:8)O&lt;(:M;7)7476N&lt;X*Z,F"P;7ZU:8)O&lt;(:D&lt;'&amp;T=Q!0=X*D)("P;7ZU:8)A&lt;X6U!%:!=!!?!!!N&amp;%VF&lt;7^S?3".97ZB:W6S,GRW&lt;'FC&amp;EVF&lt;7^S?3Z1&lt;WFO&gt;'6S,GRW9WRB=X-!$G2T&gt;#"Q&lt;WFO&gt;'6S)'FO!!"'1(!!(A!!,22.:7VP=HEA47&amp;O97&gt;F=CZM&gt;GRJ9B:.:7VP=HEO5'^J&lt;H2F=CZM&gt;G.M98.T!!^E=X1A='^J&lt;H2F=C"P&gt;81!&amp;5!)!!ZT=G-A&lt;W:G=W6U)#AQ+1!!"!!!!"6!#!!/:(.U)'^G:H.F&gt;#!I-#E!!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!#"!5!!$!!I!#Q!-%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!'E!B&amp;'.M:7&amp;S)'2T&gt;#"C?82F=T]A+&amp;1J!!!71&amp;!!!Q!+!!M!$!FF=H*P=C"P&gt;81!@A$Q!"!!!!!"!!)!!Q!%!!5!"A!(!!A!#1!)!!U!$A!)!!A!$Q-!!1A!!"!!!!!3!!!!%!!!!!A!!!!.!!!!%!!!!!U&amp;!!!)!!!!!!!!!!I!!!!!!!!!#A!!!!A!!!!!!!!!!!!!!!U,!")!!!!!!1!!"A!!!!!!!!!!!!!!!1!1!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">269230096</Property>
+				</Item>
+				<Item Name="Memory.Pointer.Type Cast.Unsafe.vi" Type="VI" URL="../Methods/Memory.Pointer.Type Cast.Unsafe.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+;!!!!%1"'1(!!(A!!,22.:7VP=HEA47&amp;O97&gt;F=CZM&gt;GRJ9B:.:7VP=HEO5'^J&lt;H2F=CZM&gt;G.M98.T!!ZT=G-A='^J&lt;H2F=C"J&lt;A!!$U!)!!FE=X1A&gt;WFE&gt;'A!$U!)!!FT=G-A&gt;WFE&gt;'A!/5!7!!)+9GFH,76O:'FB&lt;AVM;82U&lt;'5N:7ZE;7&amp;O!!!89HFU:3"P=G2F=C!I9GFH,76O:'FB&lt;CE!2E"Q!"Y!!#U5476N&lt;X*Z)%VB&lt;G&amp;H:8)O&lt;(:M;7)7476N&lt;X*Z,F"P;7ZU:8)O&lt;(:D&lt;'&amp;T=Q!0=X*D)("P;7ZU:8)A&lt;X6U!%:!=!!?!!!N&amp;%VF&lt;7^S?3".97ZB:W6S,GRW&lt;'FC&amp;EVF&lt;7^S?3Z1&lt;WFO&gt;'6S,GRW9WRB=X-!$G2T&gt;#"Q&lt;WFO&gt;'6S)'FO!!"'1(!!(A!!,22.:7VP=HEA47&amp;O97&gt;F=CZM&gt;GRJ9B:.:7VP=HEO5'^J&lt;H2F=CZM&gt;G.M98.T!!^E=X1A='^J&lt;H2F=C"P&gt;81!&amp;5!)!!ZT=G-A&lt;W:G=W6U)#AQ+1!!"!!!!"6!#!!/:(.U)'^G:H.F&gt;#!I-#E!!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!#"!5!!$!!I!#Q!-%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!'E!B&amp;'.M:7&amp;S)'2T&gt;#"C?82F=T]A+&amp;1J!!!71&amp;!!!Q!+!!M!$!FF=H*P=C"P&gt;81!@A$Q!"!!!!!"!!)!!Q!%!!5!"A!(!!A!#1!)!!U!$A!)!!A!$Q-!!1A!!"!!!!!3!!!!%!!!!!A!!!!.!!!!%!!!!!U&amp;!!!)!!!!!!!!!!I!!!!!!!!!#A!!!!A!!!!!!!!!!!!!!!U,!")!!!!!!1!!"A!!!!!!!!!!!!!!!1!1!!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
@@ -1196,6 +1205,15 @@
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1082929664</Property>
+			</Item>
+			<Item Name="Memory.Pointer.Type Cast.vi" Type="VI" URL="../Methods/Memory.Pointer.Type Cast.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0)6#P\%!!%!!!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
 			</Item>
 			<Item Name="Memory.Pointer.Write.vi" Type="VI" URL="../Methods/Memory.Pointer.Write.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!1!!!!!1!)!0,^$P!:!!%!!!!!!!!</Property>
