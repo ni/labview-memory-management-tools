@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-01-09 10:59:27" Creator="Ryan" Comments="" ID="8b4d3fbbd15218aa204dc6cce1be4a5e">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-01-11 10:37:30" Creator="Ryan" Comments="" ID="323a1b7e42f467da1fe8e2ba57c6ec18">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_lv_mem_manager</Package_File_Name>
-    <Library_Version>0.4.0.8</Library_Version>
+    <Library_Version>0.4.1.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\..\builds</Library_Output_Folder>
@@ -37,7 +37,10 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>https://github.com/ryanpoulos/LabVIEW-Memory-Manager</URL>
-      <Release_Notes>0.4.0:
+      <Release_Notes>0.4.1:
+- Separated pointer allocation from the new method for the Internal Pointer class.
+
+0.4.0:
 - Added Advanced Copy, which allows for copying bytes according to src and dst size and offset parameters.
 - Further improved error handling for Pointer methods.
 
@@ -310,7 +313,7 @@ Initial build. Includes support for:
         <Path>..\Pointer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B4996461594E84594732067B900184EB</GUID>
+      <GUID>949539B24B95B2D20FBA38ABA1DA4490</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -541,7 +544,7 @@ Initial build. Includes support for:
         <Path>..\Accessors</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B5F99F5543608973D151DEA73CB5309C</GUID>
+      <GUID>6C21B0317B17C3B5136AD008D30B9F2A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -618,7 +621,7 @@ Initial build. Includes support for:
         <Path>..\Source\Classes\Pointer\Accessors\Set Size.vi</Path>
         <VI_Title>Set Size</VI_Title>
       </Items_Data>
-      <GUID>F4EC74ABA5D064C897FD06B71AFBFFB9</GUID>
+      <GUID>6A72B05FAA0531A6B30CD7DC2C3D4074</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
