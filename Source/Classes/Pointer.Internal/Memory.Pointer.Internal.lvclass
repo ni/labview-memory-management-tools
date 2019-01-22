@@ -2,7 +2,9 @@
 <LVClass LVVersion="16008000">
 	<Property Name="NI.Lib.ContainingLib" Type="Str">Memory Manager.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../../Memory Manager.lvlib</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)F!!!*Q(C=\&gt;8"&lt;3*"%)8B:]M(8]H!)I6+96,!)61+(-W2&amp;&amp;Y+J%!%+V5+J-$2*UPW0_USS]&amp;L&gt;K6&amp;OQ@XO$#]HOH_['E.UGDXUJV?,\8H,^PP^`]Y&lt;Z`V)TL6YR8[T^MH`=_0Z_X0P^_P_C]U@&lt;@P^G`&lt;ZO)GP@K?P&gt;(])+++-J65;*\KN=C,P-C,P-C,X/1G.\H*47\S*%`S*%`S*%`S)!`S)!`S)!`S=:#,8/1CBV2-8ER5$&amp;I-5*Q-2=6,Y3E]B;@Q]&amp;'&amp;J`!5HM*4?$B&amp;B;@Q&amp;*\#5XCY4)7H]"3?QF.Y''J);BTE?!I0Q]NYD-&gt;YD-&gt;YG&amp;,'9Q"G-D/Q'13'4+&gt;Z9TT'9TS]F@%9D`%9D`(1,?-R(O-R(O0BEL%K(JLZ)-@$-%I]C3@R**\%Q^"+0)EH]33?R-.U3DS**U%E%S;$1V"S58*#]C(R*"\_+@%EHM34?")08?-/Z6C:74-@Z(A#4_!*0)%H]$#%!E`A#4S"*`!QL!*0Y!E]A3@Q-*5#4_!*0!%EG*4J&amp;1Q78"C=&amp;!3"B\_R7W,=*1^*D%0KT;P?F/L.JNZ%[MWBPOHKG[G_3?L&amp;6S_K?L(5C[$_=GKU'K/?2(XR@++/P"[I0&lt;7DNN3;7F%4N;17][6`_=4D];D$Y;$^@K`&gt;&lt;K@N&gt;KPV?KX6;K6JGL2=,L69,%[0A1?/UQ0B`&lt;GUY@WIJZ?&lt;T44^L0HT2R^VJ&gt;`3`_$:K&amp;O&gt;D]M;P1&amp;5-R_^!!!!!!</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">Internal Pointer</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.1</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
