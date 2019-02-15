@@ -22,7 +22,7 @@
 			</Item>
 		</Item>
 		<Item Name="Memory.lvlib" Type="Library" URL="../../Source/Memory.lvlib"/>
-		<Item Name="Memory Manager.vipb" Type="Document" URL="../Memory Manager.vipb"/>
+		<Item Name="Memory.vipb" Type="Document" URL="../Memory.vipb"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

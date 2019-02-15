@@ -1,17 +1,17 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-01-11 10:37:30" Creator="Ryan" Comments="" ID="323a1b7e42f467da1fe8e2ba57c6ec18">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-02-15 16:09:53" Creator="Ryan" Comments="" ID="b0a2a72f0a5cde2ea16f13350d2457d8">
   <Library_General_Settings>
-    <Package_File_Name>ni_lib_lv_mem_manager</Package_File_Name>
-    <Library_Version>0.4.1.9</Library_Version>
+    <Package_File_Name>ni_lib_lv_memory</Package_File_Name>
+    <Library_Version>0.4.2.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
-    <Library_Output_Folder>..\..\..\..\builds</Library_Output_Folder>
+    <Library_Output_Folder>..\..\..\..\..\..\..\builds</Library_Output_Folder>
     <Company_Name>National Instruments</Company_Name>
     <Library_Summary/>
     <Library_License>MIT</Library_License>
     <Package_LabVIEW_Version>16.0</Package_LabVIEW_Version>
     <Community_Edition>false</Community_Edition>
     <Package_Icon>00000CFC001D00000C1800000C00000200020022002200180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF006666006666006666006666006666006666006666006666006666006666006666006666006666FFFFFFFFFFFF000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF006666FFFFFFFFFFFFFFFFFF006666FFFFFFFFFFFFFFFFFF006666FFFFFFFFFFFFFFFFFF006666999999000000CC99FFCC99FFCC99FFCC99FFCC99FFCC99FF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF006666FFFFFFFFFFFFFFFFFF006666FFFFFFFFFFFFFFFFFF006666FFFFFFFFFFFFFFFFFF006666999999CC99FFFFCCFFFFCCFFFFCCFFFFCCFFFFCCFFFFCCFFCC99FFCC99FF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF006666FFFFFFFFFFFFFFFFFF006666FFFFFFFFFFFFFFFFFF006666FFFFFFFFFFFFFFFFFF006666999999FFCCFFFFCCFFFFCCFFFFCCFFFFCCFFFFCCFFFFCCFFFFCCFFFFCCFFCC99FF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF006666006666006666006666006666006666006666006666006666006666006666006666006666999999FFCCFFFFCCFFCC99FFCC99FFCC99FFCC99FFFFCCFFFFCCFFFFCCFFCC99FF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF999999999999999999999999999999999999999999999999999999999999999999999999999999FFCCFFCC99FFFFFFFFFFFFFFFFFFFFFFFFFFCC99FFCCCCFFCCCCFFCCCCFF9999FF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000009999FFCCCCFFCCCCFFCC99FFFFFFFFFFFFFF000000000000FFFFFFFFFFFFCC99FFCCCCFFCCCCFFCC99FF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000009999FFCCCCFFCCCCFFCC99FFFFFFFF000000CCCCCCCCCCCC000000FFFFFFCC99FFCCCCFFCCCCFF9999FF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000CC99FFCCCCFFCCCCFFCC99FFFFFFFF000000CCCCCCCCCCCC000000FFFFFFCC99FFCCCCFFCCCCFF9999FF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000009999FFCCCCFFCCCCFFCC99FFFFFFFFFFFFFF000000000000FFFFFFFFFFFFCC99FFCCCCFFCCCCFF9999FF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000009999FFCCCCFFCCCCFFCCCCFFCC99FFFFFFFFFFFFFFFFFFFFFFFFFFCC99FFCCCCFFCCCCFFCCCCFF9999FF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000CCCCFFCCCCFFCCCCFFCCCCFFCC99FFCC99FFCC99FFCC99FFCCCCFFCCCCFFCCCCFF9999FF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF9999FF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF9999FF9999FF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000000009999FF9999FF9999FF9999FF9999FF9999FF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF002900000012000000020000000D01000000000100000000000A000000080000000000240024002900000012000000020000000D00B2B2B900010000000000100000001000000002002300000000000000000023002900000012000000020000000D00FCFCFD00010000000000100000001000000002002200010001000100010022002900000012000000020000000D00B2B2B900010000000000100000001000000002000000240024002400240000002900000012000000020000000D0080808A00010000000000100000001000000002000100230023002300230001</Package_Icon>
-    <Product_Name>Memory Manager Library</Product_Name>
+    <Product_Name>Memory</Product_Name>
     <Was_Built>true</Was_Built>
     <Target>LabVIEW</Target>
   </Library_General_Settings>
@@ -25,7 +25,7 @@
       <Pre-Uninstall_VI/>
       <Post-Uninstall_VI/>
     </Custom_Action_VIs>
-    <VI_Package_Configuration_File>Memory Manager.vipc</VI_Package_Configuration_File>
+    <VI_Package_Configuration_File>Memory.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary>A library that provides a set of VIs and classes for performing explicit memory operations, such as pointer allocation and deallocation, in LabVIEW.</One_Line_Description_Summary>
       <Description>A library that provides a set of VIs and classes for performing explicit memory operations, such as pointer allocation and deallocation, in LabVIEW.
@@ -37,7 +37,11 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>https://github.com/ryanpoulos/LabVIEW-Memory-Manager</URL>
-      <Release_Notes>0.4.1:
+      <Release_Notes>0.4.2:
+- Renamed library to 'Memory' since it doesn't necessarily intend to implement all Memory Manager features.
+- New package name to match.
+
+0.4.1:
 - Separated pointer allocation from the new method for the Internal Pointer class.
 
 0.4.0:
@@ -47,7 +51,7 @@
 0.3.0:
 - Improved error handling for safe functions.
 - Added Pointer Clear and Check methods to palette.
-- Pulled in Static Error Handling.lvlib to remove external depenedency.
+- Pulled in Static Error Handling.lvlib to remove external dependency.
 
 0.2.0:
 - Added support for encapsulating external pointers.
@@ -169,7 +173,7 @@ Initial build. Includes support for:
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
       <Destination_Overrides>
-        <Path>Source/Memory Manager.lvlib</Path>
+        <Path>Source/Memory.lvlib</Path>
         <Destination>0</Destination>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
@@ -213,6 +217,9 @@ Initial build. Includes support for:
       </Exclusions>
       <Exclusions>
         <Path>Source/Submodules/SEH/README.md</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>.git</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\LICENSE</License_Agreement_Filepath>
@@ -282,7 +289,7 @@ Initial build. Includes support for:
   <Library_Palette_Definition>
     <Functions_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
-      <Name>Memory Manager</Name>
+      <Name/>
       <View_Format>Icons</View_Format>
       <Size>
         <Height_Row>1</Height_Row>
@@ -313,7 +320,7 @@ Initial build. Includes support for:
         <Path>..\Pointer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>949539B24B95B2D20FBA38ABA1DA4490</GUID>
+      <GUID>CC710D5847314D5A79558622AAEAFF99</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -345,7 +352,7 @@ Initial build. Includes support for:
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer.Internal\Methods\Memory.Pointer.Internal.New.vi</Path>
+        <Path>..\Source\Classes\Internal\Memory.Pointer.Internal.New.vi</Path>
         <VI_Title>New</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -359,7 +366,7 @@ Initial build. Includes support for:
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer.Internal\Methods\Memory.Pointer.Internal.Dispose.vi</Path>
+        <Path>..\Source\Classes\Internal\Memory.Pointer.Internal.Dispose.vi</Path>
         <VI_Title>Dispose</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -373,7 +380,7 @@ Initial build. Includes support for:
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Copy.vi</Path>
+        <Path>..\Source\Classes\Pointer\Memory.Pointer.Copy.vi</Path>
         <VI_Title>Copy</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -387,7 +394,7 @@ Initial build. Includes support for:
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Copy All.vi</Path>
+        <Path>..\Source\Classes\Pointer\Memory.Pointer.Copy All.vi</Path>
         <VI_Title>Copy All</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -401,7 +408,7 @@ Initial build. Includes support for:
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Duplicate.vi</Path>
+        <Path>..\Source\Classes\Pointer\Memory.Pointer.Duplicate.vi</Path>
         <VI_Title>Duplicate</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -415,7 +422,7 @@ Initial build. Includes support for:
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Write.vi</Path>
+        <Path>..\Source\Classes\Pointer\Memory.Pointer.Write.vi</Path>
         <VI_Title>Write</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -429,7 +436,7 @@ Initial build. Includes support for:
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Read.vi</Path>
+        <Path>..\Source\Classes\Pointer\Memory.Pointer.Read.vi</Path>
         <VI_Title>Read</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -443,7 +450,7 @@ Initial build. Includes support for:
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer.External\Methods\Memory.Pointer.External.Encapsulate.vi</Path>
+        <Path>..\Source\Classes\External\Memory.Pointer.External.Encapsulate.vi</Path>
         <VI_Title>Encapsulate</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -457,7 +464,7 @@ Initial build. Includes support for:
           <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Clear.vi</Path>
+        <Path>..\Source\Classes\Pointer\Memory.Pointer.Clear.vi</Path>
         <VI_Title>Clear</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -471,7 +478,7 @@ Initial build. Includes support for:
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Check.vi</Path>
+        <Path>..\Source\Classes\Pointer\Memory.Pointer.Check.vi</Path>
         <VI_Title>Check</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -485,7 +492,7 @@ Initial build. Includes support for:
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Clear Subset.vi</Path>
+        <Path>..\Source\Classes\Pointer\Memory.Pointer.Clear Subset.vi</Path>
         <VI_Title>Clear Subset</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -499,7 +506,7 @@ Initial build. Includes support for:
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Advanced Copy.vi</Path>
+        <Path>..\Source\Classes\Pointer\Memory.Pointer.Advanced Copy.vi</Path>
         <VI_Title>Advanced Copy</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -513,7 +520,7 @@ Initial build. Includes support for:
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\Methods\Memory.Pointer.Byte Order.vi</Path>
+        <Path>..\Source\Classes\Pointer\Memory.Pointer.Byte Order.vi</Path>
         <VI_Title>Byte Order</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -527,7 +534,7 @@ Initial build. Includes support for:
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer.Internal\Methods\Memory.Pointer.Internal.Swap.vi</Path>
+        <Path>..\Source\Classes\Internal\Memory.Pointer.Internal.Swap.vi</Path>
         <VI_Title>Swap</VI_Title>
       </Items_Data>
       <Items_Data>
@@ -544,7 +551,7 @@ Initial build. Includes support for:
         <Path>..\Accessors</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6C21B0317B17C3B5136AD008D30B9F2A</GUID>
+      <GUID>BB18DC36A907A3210EB12D8B4725B18D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -568,60 +575,60 @@ Initial build. Includes support for:
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Address.vi</NameSub_Menu_Name>
-        <Short_Name>Address</Short_Name>
+        <NameSub_Menu_Name>Memory.Pointer.Get Address.vi</NameSub_Menu_Name>
+        <Short_Name>Get Address</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
           <Row>1</Row>
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\Accessors\Get Address.vi</Path>
+        <Path>..\Source\Classes\Pointer\Memory.Pointer.Get Address.vi</Path>
         <VI_Title>Get Address</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Get Size.vi</NameSub_Menu_Name>
-        <Short_Name>Size</Short_Name>
+        <NameSub_Menu_Name>Memory.Pointer.Get Size.vi</NameSub_Menu_Name>
+        <Short_Name>Get Size</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
           <Row>1</Row>
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\Accessors\Get Size.vi</Path>
+        <Path>..\Source\Classes\Pointer\Memory.Pointer.Get Size.vi</Path>
         <VI_Title>Get Size</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Set Address.vi</NameSub_Menu_Name>
-        <Short_Name>Address</Short_Name>
+        <NameSub_Menu_Name>Memory.Pointer.Set Address.vi</NameSub_Menu_Name>
+        <Short_Name>Set Address</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
           <Row>2</Row>
           <Column>1</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\Accessors\Set Address.vi</Path>
+        <Path>..\Source\Classes\Pointer\Memory.Pointer.Set Address.vi</Path>
         <VI_Title>Set Address</VI_Title>
       </Items_Data>
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Set Size.vi</NameSub_Menu_Name>
-        <Short_Name>Size</Short_Name>
+        <NameSub_Menu_Name>Memory.Pointer.Set Size.vi</NameSub_Menu_Name>
+        <Short_Name>Set Size</Short_Name>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
           <Row>2</Row>
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\Accessors\Set Size.vi</Path>
+        <Path>..\Source\Classes\Pointer\Memory.Pointer.Set Size.vi</Path>
         <VI_Title>Set Size</VI_Title>
       </Items_Data>
-      <GUID>6A72B05FAA0531A6B30CD7DC2C3D4074</GUID>
+      <GUID>C0CEDB9F960D11FF5A245012E6CC4AA5</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
