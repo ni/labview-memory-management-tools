@@ -21,7 +21,7 @@
 				<Item Name="Pointer.Type Cast.vi" Type="VI" URL="../Tests/Pointer.Type Cast.vi"/>
 			</Item>
 		</Item>
-		<Item Name="Memory Manager.lvlib" Type="Library" URL="../../Source/Memory Manager.lvlib"/>
+		<Item Name="Memory.lvlib" Type="Library" URL="../../Source/Memory.lvlib"/>
 		<Item Name="Memory Manager.vipb" Type="Document" URL="../Memory Manager.vipb"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
