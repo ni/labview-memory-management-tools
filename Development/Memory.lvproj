@@ -12,6 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Pointer" Type="Folder">
+			<Item Name="Pointer.Advanced Copy.vi" Type="VI" URL="../Tests/Pointer.Advanced Copy.vi"/>
 			<Item Name="Pointer.Duration.vi" Type="VI" URL="../Tests/Pointer.Duration.vi"/>
 			<Item Name="Pointer.Type Cast.vi" Type="VI" URL="../Tests/Pointer.Type Cast.vi"/>
 		</Item>
