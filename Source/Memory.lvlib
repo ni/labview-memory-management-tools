@@ -10,6 +10,7 @@
 	<Item Name="Classes" Type="Folder">
 		<Item Name="Pointer" Type="Folder">
 			<Item Name="Standard Types" Type="Folder">
+				<Item Name="Memory.Pointer New Template.vit" Type="VI" URL="../Classes/Standard Types/Memory.Pointer New Template.vit"/>
 				<Item Name="Memory.Pointer.Bool.lvclass" Type="LVClass" URL="../Classes/Standard Types/Memory.Pointer.Bool.lvclass"/>
 				<Item Name="Memory.Pointer.DBL.lvclass" Type="LVClass" URL="../Classes/Standard Types/Memory.Pointer.DBL.lvclass"/>
 				<Item Name="Memory.Pointer.I8.lvclass" Type="LVClass" URL="../Classes/Standard Types/Memory.Pointer.I8.lvclass"/>
