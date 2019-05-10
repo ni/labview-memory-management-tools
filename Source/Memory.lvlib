@@ -8,25 +8,7 @@
 
 </Property>
 	<Item Name="Classes" Type="Folder">
-		<Item Name="Pointer" Type="Folder">
-			<Item Name="Standard Types" Type="Folder">
-				<Item Name="Memory.Pointer New Template.vit" Type="VI" URL="../Classes/Standard Types/Memory.Pointer New Template.vit"/>
-				<Item Name="Memory.Pointer.Bool.lvclass" Type="LVClass" URL="../Classes/Standard Types/Memory.Pointer.Bool.lvclass"/>
-				<Item Name="Memory.Pointer.DBL.lvclass" Type="LVClass" URL="../Classes/Standard Types/Memory.Pointer.DBL.lvclass"/>
-				<Item Name="Memory.Pointer.I8.lvclass" Type="LVClass" URL="../Classes/Standard Types/Memory.Pointer.I8.lvclass"/>
-				<Item Name="Memory.Pointer.I16.lvclass" Type="LVClass" URL="../Classes/Standard Types/Memory.Pointer.I16.lvclass"/>
-				<Item Name="Memory.Pointer.I32.lvclass" Type="LVClass" URL="../Classes/Standard Types/Memory.Pointer.I32.lvclass"/>
-				<Item Name="Memory.Pointer.I64.lvclass" Type="LVClass" URL="../Classes/Standard Types/Memory.Pointer.I64.lvclass"/>
-				<Item Name="Memory.Pointer.SGL.lvclass" Type="LVClass" URL="../Classes/Standard Types/Memory.Pointer.SGL.lvclass"/>
-				<Item Name="Memory.Pointer.U8.lvclass" Type="LVClass" URL="../Classes/Standard Types/Memory.Pointer.U8.lvclass"/>
-				<Item Name="Memory.Pointer.U16.lvclass" Type="LVClass" URL="../Classes/Standard Types/Memory.Pointer.U16.lvclass"/>
-				<Item Name="Memory.Pointer.U32.lvclass" Type="LVClass" URL="../Classes/Standard Types/Memory.Pointer.U32.lvclass"/>
-				<Item Name="Memory.Pointer.U64.lvclass" Type="LVClass" URL="../Classes/Standard Types/Memory.Pointer.U64.lvclass"/>
-			</Item>
-			<Item Name="Memory.Pointer.External.lvclass" Type="LVClass" URL="../Classes/External/Memory.Pointer.External.lvclass"/>
-			<Item Name="Memory.Pointer.Internal.lvclass" Type="LVClass" URL="../Classes/Internal/Memory.Pointer.Internal.lvclass"/>
-			<Item Name="Memory.Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Memory.Pointer.lvclass"/>
-		</Item>
+		<Item Name="Memory.Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Memory.Pointer.lvclass"/>
 	</Item>
 	<Item Name="Constants" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
