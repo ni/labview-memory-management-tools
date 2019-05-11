@@ -19,7 +19,9 @@
 			<Item Name="Pointer.Type Cast.vi" Type="VI" URL="../Tests/Pointer.Type Cast.vi"/>
 		</Item>
 		<Item Name="Memory.lvlib" Type="Library" URL="../../Source/Memory.lvlib"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="Memory.Count to Size.Power of 2.vi" Type="VI" URL="../../Source/VIs/Memory.Count to Size.Power of 2.vi"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
