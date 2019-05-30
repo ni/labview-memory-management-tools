@@ -18,5 +18,8 @@
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Memory.Null.ctl" Type="VI" URL="../Controls/Memory.Null.ctl"/>
 	</Item>
-	<Item Name="VIs" Type="Folder"/>
+	<Item Name="VIs" Type="Folder">
+		<Item Name="Configure VIs for Development.vi" Type="VI" URL="../VIs/Configure VIs for Development.vi"/>
+		<Item Name="Configure VIs for Execution.vi" Type="VI" URL="../VIs/Configure VIs for Execution.vi"/>
+	</Item>
 </Library>

@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Build Actions" Type="Folder"/>
 		<Item Name="Examples" Type="Folder">
 			<Item Name="Memory Benchmark" Type="Folder">
 				<Item Name="Memory Benchmark.vi" Type="VI" URL="../../Examples/Memory Benchmark/Memory Benchmark.vi"/>
@@ -36,6 +37,7 @@
 			<Item Name="Pointer.Duration.vi" Type="VI" URL="../Tests/Pointer.Duration.vi"/>
 		</Item>
 		<Item Name="Memory.lvlib" Type="Library" URL="../../Source/Memory.lvlib"/>
+		<Item Name="Memory.vipb" Type="Document" URL="../Memory.vipb"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Array Size(s)__ogtk__jki_vi_tester.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/Array Size(s)__ogtk__jki_vi_tester.vi"/>
