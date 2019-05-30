@@ -10,7 +10,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Build Actions" Type="Folder"/>
 		<Item Name="Examples" Type="Folder">
 			<Item Name="Memory Benchmark" Type="Folder">
 				<Item Name="Memory Benchmark.vi" Type="VI" URL="../../Examples/Memory Benchmark/Memory Benchmark.vi"/>
