@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-06-03 09:33:44" Creator="Ryan" Comments="" ID="f1b43d6893b4c62362696d3b78ee3214">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-06-03 10:18:05" Creator="Ryan" Comments="" ID="2a44bde6b02bb628da61c5b0c1305b39">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_lv_memory</Package_File_Name>
-    <Library_Version>0.5.1.11</Library_Version>
+    <Library_Version>0.5.2.11</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\..\..\..\..\builds</Library_Output_Folder>
@@ -19,7 +19,7 @@
     <Package_Dependencies/>
     <Custom_Action_VIs>
       <Pre-Build_VI>..\Source\VIs\Configure VIs for Execution.vi</Pre-Build_VI>
-      <Post-Build_VI/>
+      <Post-Build_VI>..\Source\VIs\Configure VIs for Development.vi</Post-Build_VI>
       <Pre-Install_VI/>
       <Post-Install_VI/>
       <Pre-Uninstall_VI/>
@@ -332,7 +332,7 @@ Initial build. Includes support for:
         <Path>..\Pointer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E8515647AB32D2FB73D32090D4E12603</GUID>
+      <GUID>552DA126BAE859F7C46A6DDFD9695CF1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -563,7 +563,7 @@ Initial build. Includes support for:
         <Path>..\Source\Classes\Pointer\Memory.Pointer.Byte Order.vi</Path>
         <VI_Title>Byte Order</VI_Title>
       </Items_Data>
-      <GUID>134718D5B1C5A574A319B687306180CC</GUID>
+      <GUID>2AB4F3900696D82C9D438D8B31E53788</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -640,7 +640,7 @@ Initial build. Includes support for:
         <Path>..\Source\Classes\Pointer\Memory.Pointer.Set Address.vi</Path>
         <VI_Title>Set Address</VI_Title>
       </Items_Data>
-      <GUID>E16FACE4F3C9C22329F9A00A982E93AB</GUID>
+      <GUID>D996E34B1E23B22C1A16E640F3F89574</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
