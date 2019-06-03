@@ -293,7 +293,7 @@ AddOutputFilter chunkFilter
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Memory Manager.lvlib" Type="Library" URL="../../../Source/Memory Manager.lvlib"/>
+			<Item Name="Memory.lvlib" Type="Library" URL="../../../Source/Memory.lvlib"/>
 			<Item Name="Static Error Handling.lvlib" Type="Library" URL="../../../Source/Submodules/SEH/Source/Static Error Handling.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
