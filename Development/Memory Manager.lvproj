@@ -16,7 +16,7 @@
 			</Item>
 		</Item>
 		<Item Name="Submodules" Type="Folder">
-			<Item Name="Static Error Handling.lvlib" Type="Library" URL="../../Source/Submodules/SEH/Source/Static Error Handling.lvlib"/>
+			<Item Name="Static Error Handling.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/Memory Manager/Submodules/SEH/Source/Static Error Handling.lvlib"/>
 		</Item>
 		<Item Name="Testing" Type="Folder">
 			<Item Name="Inheritance" Type="Folder">
