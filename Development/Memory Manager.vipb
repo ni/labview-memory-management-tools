@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-07-19 10:52:48" Creator="Ryan" Comments="" ID="fe1337e3dacf3d1b3abcc93984460410">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-07-19 11:11:57" Creator="Ryan" Comments="" ID="882ba5261c4858631f4c0c00c308fe1d">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_lv_memory</Package_File_Name>
-    <Library_Version>0.6.0.15</Library_Version>
+    <Library_Version>0.6.1.16</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\..\builds</Library_Output_Folder>
@@ -16,9 +16,7 @@
     <Target>LabVIEW</Target>
   </Library_General_Settings>
   <Advanced_Settings>
-    <Package_Dependencies>
-      <Additional_External_Dependencies>ni_lib_static_error_handling &gt;=0.1.1.2</Additional_External_Dependencies>
-    </Package_Dependencies>
+    <Package_Dependencies/>
     <Custom_Action_VIs>
       <Pre-Build_VI>..\Source\VIs\Configure VIs for Execution.vi</Pre-Build_VI>
       <Post-Build_VI>..\Source\VIs\Configure VIs for Development.vi</Post-Build_VI>
@@ -40,7 +38,7 @@
       <Packager>NI Systems Engineering</Packager>
       <URL>https://github.com/ryanpoulos/LabVIEW-Memory-Manager</URL>
       <Release_Notes>0.6.0:
-Added Static Error Handling library.
+- Added Static Error Handling library.
 
 0.5.2:
 - Removed submodules and relinked to dependencies to vi.lib.
@@ -337,7 +335,7 @@ Initial build. Includes support for:
         <Path>..\Source\Static Error Handling\VIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CB70C9A7DF83E166DBA170D9256C4A17</GUID>
+      <GUID>1812A6CDBBFA05399CBB438535687128</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -568,7 +566,7 @@ Initial build. Includes support for:
         <Path>..\Source\Classes\Pointer\Memory.Pointer.Byte Order.vi</Path>
         <VI_Title>Byte Order</VI_Title>
       </Items_Data>
-      <GUID>9DF43F179310BA818E3834B348A8C99F</GUID>
+      <GUID>6A65DA9C1EB69A839568AC64541E7565</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -645,7 +643,7 @@ Initial build. Includes support for:
         <Path>..\Source\Classes\Pointer\Memory.Pointer.Set Address.vi</Path>
         <VI_Title>Set Address</VI_Title>
       </Items_Data>
-      <GUID>C89922809FEF863AA532F87438A720ED</GUID>
+      <GUID>9F01D9931BEDA827AFDDF254EF4466BA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1114,7 +1112,7 @@ Initial build. Includes support for:
         <Path>..\Source\Static Error Handling\VIs\Static Error Handling.To String.Integer.Decimal.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BBEDF23EDDECA4D1919BAA545A501777</GUID>
+      <GUID>11ADC69144A6C9DFCF3AC9ECA2ABFEB6</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
