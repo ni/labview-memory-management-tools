@@ -33,4 +33,5 @@
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Memory.Null.ctl" Type="VI" URL="../Controls/Memory.Null.ctl"/>
 	</Item>
+	<Item Name="Static Error Handling.lvlib" Type="Library" URL="../Static Error Handling/Static Error Handling.lvlib"/>
 </Library>

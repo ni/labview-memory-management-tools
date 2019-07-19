@@ -15,9 +15,6 @@
 				<Item Name="Memory Benchmark.vi" Type="VI" URL="../../Examples/Memory Benchmark/Memory Benchmark.vi"/>
 			</Item>
 		</Item>
-		<Item Name="Submodules" Type="Folder">
-			<Item Name="Static Error Handling.lvlib" Type="Library" URL="/&lt;vilib&gt;/National Instruments/Memory Manager/Submodules/SEH/Source/Static Error Handling.lvlib"/>
-		</Item>
 		<Item Name="Testing" Type="Folder">
 			<Item Name="Inheritance" Type="Folder">
 				<Item Name="Pointer Test Class.lvclass" Type="LVClass" URL="../Tests/Pointer Test Class/Pointer Test Class.lvclass"/>
