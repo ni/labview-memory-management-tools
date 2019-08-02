@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-07-31 12:31:29" Creator="Ryan" Comments="" ID="e5af7076620ac08ab08d471017e4c531">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-08-02 13:13:53" Creator="Ryan" Comments="" ID="51930532003bb1a22dda2ed22407a5c4">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_lv_memory</Package_File_Name>
-    <Library_Version>0.7.0.18</Library_Version>
+    <Library_Version>0.7.0.20</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\builds</Library_Output_Folder>
@@ -18,8 +18,8 @@
   <Advanced_Settings>
     <Package_Dependencies/>
     <Custom_Action_VIs>
-      <Pre-Build_VI>..\Source\VIs\Configure VIs for Execution.vi</Pre-Build_VI>
-      <Post-Build_VI>..\Source\VIs\Configure VIs for Development.vi</Post-Build_VI>
+      <Pre-Build_VI>Build\Memory Manager Pre-Build.vi</Pre-Build_VI>
+      <Post-Build_VI>Build\Memory Manager Post-Build.vi</Post-Build_VI>
       <Pre-Install_VI/>
       <Post-Install_VI/>
       <Pre-Uninstall_VI/>
@@ -338,7 +338,7 @@ Initial build. Includes support for:
         <Path>..\Source\VIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9813E1150AB130E9AAE21C140DE1A411</GUID>
+      <GUID>BACFB80A49989C890E0F0B579A1FCC36</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -399,34 +399,6 @@ Initial build. Includes support for:
         </Position>
         <Icon>00000000</Icon>
         <Path>..\Source\Classes\Pointer\Read.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>New Subset Pointer.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\New Subset Pointer.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Encapsulate.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>4</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\Encapsulate.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -597,7 +569,35 @@ Initial build. Includes support for:
         <Path>..\Accessors</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>04AC5016AE73EC4B3BEAC6AC229BB20D</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Subset.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>3</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\Source\Classes\Pointer\Subset.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Encapsulate.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\Source\Classes\Pointer\Encapsulate.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>F6154BCE1454DB8287FB74B0D87D95C9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -674,7 +674,7 @@ Initial build. Includes support for:
         <Path>..\Source\Classes\Pointer\Get Internal.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1648172615C846C97CC5A80D49A765C7</GUID>
+      <GUID>D3D0B601436C8D22E4A5D246DEF535D8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1101,7 +1101,7 @@ Initial build. Includes support for:
         <Path>..\Source\VIs\New Error Cluster Constant.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>648D434897072887E4C1EA11CB58FF6C</GUID>
+      <GUID>549AE5B0321282691D1904330AACFB33</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
