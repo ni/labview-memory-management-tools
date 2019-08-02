@@ -158,7 +158,7 @@
 						<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 						<Property Name="NI.ClassItem.State" Type="Int">1350574592</Property>
 					</Item>
-					<Item Name="Get Error Info.vi" Type="VI" URL="../Get Error Info.vi">
+					<Item Name="Pointer Error Info.vi" Type="VI" URL="../Pointer Error Info.vi">
 						<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%G!!!!"A!%!!!!#U!$!!2D&lt;W2F!!!51$$`````#W2F=W.S;8"U;7^O!":!5!!#!!%!!AJF=H*P=C"J&lt;G:P!!#2!0%!!!!!!!!!!R2.:7VP=HEA47&amp;O97&gt;F=CZM&gt;GRJ9A^1&lt;WFO&gt;'6S,GRW9WRB=X-+28*S&lt;X*T,G.U&lt;!":1"9!"AB/&lt;S"&amp;=H*P=AR/&gt;7RM)&amp;"P;7ZU:8).4X6U)'^G)%*P&gt;7ZE=R"#&gt;7:G:8)A67ZE:8*G&lt;'^X$6.J?G5A47FT&lt;7&amp;U9WA%7G^O:1!&amp;:8*S&lt;X)!6!$Q!!Q!!!!!!!!!!Q!!!!!!!!!!!!!!!!!!!!1#!!"Y!!!!!!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!!!!!!1!&amp;!!!!!!</Property>
 						<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 						<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
