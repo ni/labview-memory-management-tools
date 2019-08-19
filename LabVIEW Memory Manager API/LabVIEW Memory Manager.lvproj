@@ -10,7 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Build" Type="Folder">
+		<Item Name="Development Utilities" Type="Folder">
 			<Item Name="Blacklist" Type="Folder">
 				<Item Name="Configure VIs.Blacklist.vi" Type="VI" URL="../Development/Configure VIs/Configure VIs.Blacklist.vi"/>
 			</Item>
