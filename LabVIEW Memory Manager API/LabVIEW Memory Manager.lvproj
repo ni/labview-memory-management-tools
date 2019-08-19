@@ -12,18 +12,18 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Development Utilities" Type="Folder">
 			<Item Name="Blacklist" Type="Folder">
-				<Item Name="Configure VIs.Blacklist.vi" Type="VI" URL="../Development/Configure VIs/Configure VIs.Blacklist.vi"/>
+				<Item Name="Configure VIs.Blacklist.vi" Type="VI" URL="../Development Utilities/Configure VIs/Configure VIs.Blacklist.vi"/>
 			</Item>
 			<Item Name="Progress Window" Type="Folder">
-				<Item Name="Configure VIs.Progress Window.Close.vi" Type="VI" URL="../Development/Configure VIs/Configure VIs.Progress Window.Close.vi"/>
-				<Item Name="Configure VIs.Progress Window.New.vi" Type="VI" URL="../Development/Configure VIs/Configure VIs.Progress Window.New.vi"/>
-				<Item Name="Configure VIs.Progress Window.Set Progress.vi" Type="VI" URL="../Development/Configure VIs/Configure VIs.Progress Window.Set Progress.vi"/>
-				<Item Name="Configure VIs.Progress Window.Set Status.vi" Type="VI" URL="../Development/Configure VIs/Configure VIs.Progress Window.Set Status.vi"/>
-				<Item Name="Configure VIs.Progress Window.Set Stop.vi" Type="VI" URL="../Development/Configure VIs/Configure VIs.Progress Window.Set Stop.vi"/>
-				<Item Name="Configure VIs.Progress Window.vi" Type="VI" URL="../Development/Configure VIs/Configure VIs.Progress Window.vi"/>
+				<Item Name="Configure VIs.Progress Window.Close.vi" Type="VI" URL="../Development Utilities/Configure VIs/Configure VIs.Progress Window.Close.vi"/>
+				<Item Name="Configure VIs.Progress Window.New.vi" Type="VI" URL="../Development Utilities/Configure VIs/Configure VIs.Progress Window.New.vi"/>
+				<Item Name="Configure VIs.Progress Window.Set Progress.vi" Type="VI" URL="../Development Utilities/Configure VIs/Configure VIs.Progress Window.Set Progress.vi"/>
+				<Item Name="Configure VIs.Progress Window.Set Status.vi" Type="VI" URL="../Development Utilities/Configure VIs/Configure VIs.Progress Window.Set Status.vi"/>
+				<Item Name="Configure VIs.Progress Window.Set Stop.vi" Type="VI" URL="../Development Utilities/Configure VIs/Configure VIs.Progress Window.Set Stop.vi"/>
+				<Item Name="Configure VIs.Progress Window.vi" Type="VI" URL="../Development Utilities/Configure VIs/Configure VIs.Progress Window.vi"/>
 			</Item>
-			<Item Name="Configure VIs for Development.vi" Type="VI" URL="../Development/Configure VIs/Configure VIs for Development.vi"/>
-			<Item Name="Configure VIs for Execution.vi" Type="VI" URL="../Development/Configure VIs/Configure VIs for Execution.vi"/>
+			<Item Name="Configure VIs for Development.vi" Type="VI" URL="../Development Utilities/Configure VIs/Configure VIs for Development.vi"/>
+			<Item Name="Configure VIs for Execution.vi" Type="VI" URL="../Development Utilities/Configure VIs/Configure VIs for Execution.vi"/>
 		</Item>
 		<Item Name="Memory Manager.lvlib" Type="Library" URL="../Source/Memory Manager.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
