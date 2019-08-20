@@ -15,24 +15,24 @@
 		<Item Name="Create Error Cluster (1024B).vi" Type="VI" URL="../VIs/Create Error Cluster (1024B).vi"/>
 		<Item Name="Create Error Cluster.vi" Type="VI" URL="../VIs/Create Error Cluster.vi"/>
 	</Item>
-	<Item Name="Insert into Error Source" Type="Folder">
-		<Item Name="Insert DBL into Source.vi" Type="VI" URL="../VIs/Insert DBL into Source.vi"/>
-		<Item Name="Insert I8 into Source.vi" Type="VI" URL="../VIs/Insert I8 into Source.vi"/>
-		<Item Name="Insert I16 into Source.vi" Type="VI" URL="../VIs/Insert I16 into Source.vi"/>
-		<Item Name="Insert I32 into Source.vi" Type="VI" URL="../VIs/Insert I32 into Source.vi"/>
-		<Item Name="Insert I64 into Source.vi" Type="VI" URL="../VIs/Insert I64 into Source.vi"/>
-		<Item Name="Insert Number into Source.vi" Type="VI" URL="../VIs/Insert Number into Source.vi"/>
-		<Item Name="Insert SGL into Source.vi" Type="VI" URL="../VIs/Insert SGL into Source.vi"/>
-		<Item Name="Insert String into Source.vi" Type="VI" URL="../VIs/Insert String into Source.vi"/>
-		<Item Name="Insert U8 into Source.vi" Type="VI" URL="../VIs/Insert U8 into Source.vi"/>
-		<Item Name="Insert U16 into Source.vi" Type="VI" URL="../VIs/Insert U16 into Source.vi"/>
-		<Item Name="Insert U32 into Source.vi" Type="VI" URL="../VIs/Insert U32 into Source.vi"/>
-		<Item Name="Insert U64 into Source.vi" Type="VI" URL="../VIs/Insert U64 into Source.vi"/>
-	</Item>
 	<Item Name="Set Error Parameters" Type="Folder">
 		<Item Name="Set Error Code.vi" Type="VI" URL="../VIs/Set Error Code.vi"/>
 		<Item Name="Set Error Description.vi" Type="VI" URL="../VIs/Set Error Description.vi"/>
 		<Item Name="Set Error Source.vi" Type="VI" URL="../VIs/Set Error Source.vi"/>
 		<Item Name="Set Error Status.vi" Type="VI" URL="../VIs/Set Error Status.vi"/>
+	</Item>
+	<Item Name="Write into Error Source" Type="Folder">
+		<Item Name="Write DBL into Source.vi" Type="VI" URL="../VIs/Write DBL into Source.vi"/>
+		<Item Name="Write I8 into Source.vi" Type="VI" URL="../VIs/Write I8 into Source.vi"/>
+		<Item Name="Write I16 into Source.vi" Type="VI" URL="../VIs/Write I16 into Source.vi"/>
+		<Item Name="Write I32 into Source.vi" Type="VI" URL="../VIs/Write I32 into Source.vi"/>
+		<Item Name="Write I64 into Source.vi" Type="VI" URL="../VIs/Write I64 into Source.vi"/>
+		<Item Name="Write Number into Source.vi" Type="VI" URL="../VIs/Write Number into Source.vi"/>
+		<Item Name="Write SGL into Source.vi" Type="VI" URL="../VIs/Write SGL into Source.vi"/>
+		<Item Name="Write String into Source.vi" Type="VI" URL="../VIs/Write String into Source.vi"/>
+		<Item Name="Write U8 into Source.vi" Type="VI" URL="../VIs/Write U8 into Source.vi"/>
+		<Item Name="Write U16 into Source.vi" Type="VI" URL="../VIs/Write U16 into Source.vi"/>
+		<Item Name="Write U32 into Source.vi" Type="VI" URL="../VIs/Write U32 into Source.vi"/>
+		<Item Name="Write U64 into Source.vi" Type="VI" URL="../VIs/Write U64 into Source.vi"/>
 	</Item>
 </Library>
