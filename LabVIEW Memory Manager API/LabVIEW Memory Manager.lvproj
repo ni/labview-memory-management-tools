@@ -30,6 +30,11 @@
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 			</Item>
+			<Item Name="Error Cluster.Set Code.vi" Type="VI" URL="../Source/VIs/Error Cluster.Set Code.vi"/>
+			<Item Name="Error Cluster.Set Status.vi" Type="VI" URL="../Source/VIs/Error Cluster.Set Status.vi"/>
+			<Item Name="Error Cluster.Set VI Source.vi" Type="VI" URL="../Source/VIs/Error Cluster.Set VI Source.vi"/>
+			<Item Name="New Error Cluster Constant (512B).vi" Type="VI" URL="../Source/VIs/New Error Cluster Constant (512B).vi"/>
+			<Item Name="New Error Cluster Constant.vi" Type="VI" URL="../Source/VIs/New Error Cluster Constant.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
