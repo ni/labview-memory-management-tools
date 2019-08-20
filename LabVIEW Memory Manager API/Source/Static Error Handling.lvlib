@@ -47,8 +47,4 @@
 		<Item Name="Source.Write.Scalar.Base10.vi" Type="VI" URL="../VIs/Source.Write.Scalar.Base10.vi"/>
 		<Item Name="Source.Write.String.vi" Type="VI" URL="../VIs/Source.Write.String.vi"/>
 	</Item>
-	<Item Name="Static String" Type="Folder">
-		<Item Name="Static String (16B).vi" Type="VI" URL="../VIs/Static String (16B).vi"/>
-		<Item Name="Static String.vi" Type="VI" URL="../VIs/Static String.vi"/>
-	</Item>
 </Library>
