@@ -35,5 +35,5 @@
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Null.ctl" Type="VI" URL="../Controls/Null.ctl"/>
 	</Item>
-	<Item Name="Static Error Handling.lvlib" Type="Library" URL="../Static Error Handling.lvlib"/>
+	<Item Name="Deterministic Error Builder.lvlib" Type="Library" URL="../Deterministic Error Builder.lvlib"/>
 </Library>
