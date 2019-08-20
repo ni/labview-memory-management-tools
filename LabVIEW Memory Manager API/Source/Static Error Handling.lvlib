@@ -33,7 +33,6 @@
 		<Item Name="Set Error Status.vi" Type="VI" URL="../VIs/Set Error Status.vi"/>
 	</Item>
 	<Item Name="Source Buffer" Type="Folder">
-		<Item Name="Source.Write.Range.Base10 (U64).vi" Type="VI" URL="../VIs/Source.Write.Range.Base10 (U64).vi"/>
 		<Item Name="Source.Write.Scalar.Base10 (DBL).vi" Type="VI" URL="../VIs/Source.Write.Scalar.Base10 (DBL).vi"/>
 		<Item Name="Source.Write.Scalar.Base10 (I8).vi" Type="VI" URL="../VIs/Source.Write.Scalar.Base10 (I8).vi"/>
 		<Item Name="Source.Write.Scalar.Base10 (I16).vi" Type="VI" URL="../VIs/Source.Write.Scalar.Base10 (I16).vi"/>
