@@ -4,4 +4,5 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Creation.lvclass" Type="LVClass" URL="../Creation/Creation.lvclass"/>
 </Library>
