@@ -25,6 +25,10 @@
 			<Item Name="Configure VIs for Development.vi" Type="VI" URL="../Development Utilities/Configure VIs/Configure VIs for Development.vi"/>
 			<Item Name="Configure VIs for Execution.vi" Type="VI" URL="../Development Utilities/Configure VIs/Configure VIs for Execution.vi"/>
 		</Item>
+		<Item Name="Tests" Type="Folder">
+			<Item Name="Deterministic Error Tests.lvlib" Type="Library" URL="../Tests/Deterministic Error Tests/Deterministic Error Tests.lvlib"/>
+			<Item Name="Pointer Tests.lvlib" Type="Library" URL="../Tests/Pointer Tests/Pointer Tests.lvlib"/>
+		</Item>
 		<Item Name="Memory Manager.lvlib" Type="Library" URL="../Source/Memory Manager.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
