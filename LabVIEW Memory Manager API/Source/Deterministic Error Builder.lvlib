@@ -19,7 +19,6 @@
 	</Item>
 	<Item Name="Set Error Parameters" Type="Folder">
 		<Item Name="Set Error Code.vi" Type="VI" URL="../VIs/Set Error Code.vi"/>
-		<Item Name="Set Error Description.vi" Type="VI" URL="../VIs/Set Error Description.vi"/>
 		<Item Name="Set Error Source.vi" Type="VI" URL="../VIs/Set Error Source.vi"/>
 		<Item Name="Set Error Status.vi" Type="VI" URL="../VIs/Set Error Status.vi"/>
 	</Item>
