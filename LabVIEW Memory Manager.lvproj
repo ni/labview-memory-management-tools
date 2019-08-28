@@ -24,6 +24,7 @@
 			</Item>
 			<Item Name="Configure VIs for Development.vi" Type="VI" URL="../Development Utilities/Configure VIs/Configure VIs for Development.vi"/>
 			<Item Name="Configure VIs for Execution.vi" Type="VI" URL="../Development Utilities/Configure VIs/Configure VIs for Execution.vi"/>
+			<Item Name="Get Library Path.vi" Type="VI" URL="../Development Utilities/Configure VIs/Get Library Path.vi"/>
 		</Item>
 		<Item Name="Tests" Type="Folder">
 			<Item Name="Deterministic Error Tests.lvlib" Type="Library" URL="../Tests/Deterministic Error Tests/Deterministic Error Tests.lvlib"/>
