@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-08-28 16:30:11" Creator="Ryan" Comments="" ID="5d44b21718b1b6236f9cd32abed59d50">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-08-28 18:49:41" Creator="Ryan" Comments="" ID="a72aede972c39847af8b64385402601e">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_lv_memory</Package_File_Name>
-    <Library_Version>1.0.0.23</Library_Version>
+    <Library_Version>1.0.0.24</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
-    <Library_Output_Folder>builds:\</Library_Output_Folder>
+    <Library_Output_Folder>..\..\builds</Library_Output_Folder>
     <Company_Name>National Instruments</Company_Name>
     <Library_Summary/>
     <Library_License>MIT</Library_License>
@@ -18,8 +18,8 @@
   <Advanced_Settings>
     <Package_Dependencies/>
     <Custom_Action_VIs>
-      <Pre-Build_VI>Development Utilities\Configure VIs\Configure VIs for Execution.vi</Pre-Build_VI>
-      <Post-Build_VI>Development Utilities\Configure VIs\Configure VIs for Development.vi</Post-Build_VI>
+      <Pre-Build_VI/>
+      <Post-Build_VI/>
       <Pre-Install_VI/>
       <Post-Install_VI/>
       <Pre-Uninstall_VI/>
@@ -229,7 +229,7 @@
         <Path>Source\Deterministic Error Builder</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>713CE7433C0A529C6405D5D0E7648D4D</GUID>
+      <GUID>788F379011565AAC57D586A5A3DB236F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -446,7 +446,7 @@
         <Path>Source\Classes\Pointer\API\Get Byte Order Info.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>64FFD4E54741D1C0BD2BE9764E590908</GUID>
+      <GUID>5D081F854025FA5ECFC03B840DB8F7F8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -495,7 +495,7 @@
         <Path>Source\Classes\Pointer\API\Accessors\Get Size.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>389B91C834F4A78302DBBD5972215631</GUID>
+      <GUID>84D843EE65918AC083038DA0C454FD2D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -600,7 +600,7 @@
         <Path>Source\VIs\Write Number into Source.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>53F07DFEC185257FEFA16AEA18D06F46</GUID>
+      <GUID>35E2003875502B5A3D3CF7C5836AA2E4</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -649,7 +649,7 @@
         <Path>Source\Controls</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8DB67C107E708793A7C0C622589DE30C</GUID>
+      <GUID>CACDB3F4FFF6DCEE60337C014602C305</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -684,7 +684,7 @@
         <Path>Source\Classes\Pointer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C04E514351A94F2290A4CCD1CF381DCD</GUID>
+      <GUID>6735D7861DBA4B8692F3E8F5E6E217DF</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -719,7 +719,7 @@
         <Path>Source\Controls\Null.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>21DE98140DA13A00FCFBFD09831B0540</GUID>
+      <GUID>B05DAB505565F41B53E40A3F006A1ACB</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -754,7 +754,7 @@
         <Path>Source\Classes\Pointer\Public</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D423ACC0F43A8A6A45D918A6AD589EFE</GUID>
+      <GUID>7BF7D3210D177F6FECC306AC02098DEC</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -803,7 +803,7 @@
         <Path>Source\Classes\Pointer\Public\Errors.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>513F1144CFE317593E2505E9CCD31797</GUID>
+      <GUID>40F427A66CF874B6CAE3AD3F5F8B3B8E</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
