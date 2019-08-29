@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-08-28 18:49:41" Creator="Ryan" Comments="" ID="a72aede972c39847af8b64385402601e">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-08-28 21:51:33" Creator="Ryan" Comments="" ID="e8e266a4c090774e994856c354d29304">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_lv_memory</Package_File_Name>
-    <Library_Version>1.0.0.24</Library_Version>
+    <Library_Version>1.0.0.25</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>..\..\builds</Library_Output_Folder>
@@ -229,7 +229,7 @@
         <Path>Source\Deterministic Error Builder</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>788F379011565AAC57D586A5A3DB236F</GUID>
+      <GUID>CD2FC58D8D52E89D6DC9A0605177A1FA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -446,7 +446,7 @@
         <Path>Source\Classes\Pointer\API\Get Byte Order Info.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5D081F854025FA5ECFC03B840DB8F7F8</GUID>
+      <GUID>289768D40ED3546846498E7013FD9B8D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -495,7 +495,7 @@
         <Path>Source\Classes\Pointer\API\Accessors\Get Size.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>84D843EE65918AC083038DA0C454FD2D</GUID>
+      <GUID>FC70EF66FAEC9DCB94CB4A83E501848E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -600,7 +600,7 @@
         <Path>Source\VIs\Write Number into Source.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>35E2003875502B5A3D3CF7C5836AA2E4</GUID>
+      <GUID>EF3FE369BA98C54C8A71EE30166B19B4</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -649,7 +649,7 @@
         <Path>Source\Controls</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CACDB3F4FFF6DCEE60337C014602C305</GUID>
+      <GUID>202A5BFB351BEB2A9450069BCF9017D2</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -684,7 +684,7 @@
         <Path>Source\Classes\Pointer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6735D7861DBA4B8692F3E8F5E6E217DF</GUID>
+      <GUID>5BF2A6B168188A4DE4258FC385841FCB</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -719,7 +719,7 @@
         <Path>Source\Controls\Null.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B05DAB505565F41B53E40A3F006A1ACB</GUID>
+      <GUID>CD4003C723B9373552D90A52A83D9063</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -754,7 +754,7 @@
         <Path>Source\Classes\Pointer\Public</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7BF7D3210D177F6FECC306AC02098DEC</GUID>
+      <GUID>8E5818FE1C1CCDA2531B1DC1A877DEAD</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -803,7 +803,7 @@
         <Path>Source\Classes\Pointer\Public\Errors.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>40F427A66CF874B6CAE3AD3F5F8B3B8E</GUID>
+      <GUID>2D8D84905CB5EB08FF948F40C4775BFD</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
