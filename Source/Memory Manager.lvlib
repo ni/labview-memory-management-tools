@@ -9,7 +9,6 @@
 </Property>
 	<Item Name="Classes" Type="Folder">
 		<Item Name="Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.lvclass"/>
-		<Item Name="Protected Pointer.lvclass" Type="LVClass" URL="../Classes/Protected Pointer/Protected Pointer.lvclass"/>
 	</Item>
 	<Item Name="Constants" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
