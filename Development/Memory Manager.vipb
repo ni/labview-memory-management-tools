@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-09-19 15:08:41" Creator="Ryan" Comments="" ID="11fe971b5ae29aca30ec1509bcdb27c5">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-10-02 15:54:44" Creator="Ryan" Comments="" ID="f82d0c0323953607c4fa750ec37549ba">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_lv_memory</Package_File_Name>
-    <Library_Version>0.8.0.20</Library_Version>
+    <Library_Version>0.8.1.20</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\builds</Library_Output_Folder>
@@ -37,7 +37,10 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>https://github.com/ryanpoulos/LabVIEW-Memory-Manager</URL>
-      <Release_Notes>0.8.0:
+      <Release_Notes>0.8.1:
+- Fixed bound check bug.
+
+0.8.0:
 - Removed protected operations for now.
 - Cleaned up VI name and descriptions.
 - Improved error handling.
@@ -343,7 +346,7 @@ Initial build. Includes support for:
         <Path>..\Source\VIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>34B7A71992B04A3A8B8A9F4557F9AAFE</GUID>
+      <GUID>EE8F06476D4080F5ED3257DCCC12783D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -574,7 +577,7 @@ Initial build. Includes support for:
         <Path>..\Source\Classes\Pointer\Is Null.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>848D1D83D880710B280F46B843CC853A</GUID>
+      <GUID>EC108EB2357925DE7DF9DE0E6E4E54B7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -637,7 +640,7 @@ Initial build. Includes support for:
         <Path>..\Source\Classes\Pointer\Get Internal.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D9B5EC81CB55A6372C3AAF5599B49EC2</GUID>
+      <GUID>EF2508B5A5163A03A05BD0CD80263BF4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1064,7 +1067,7 @@ Initial build. Includes support for:
         <Path>..\Source\VIs\New Error Cluster Constant.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3C2A2C1483DEC5299226F0F4D41FE472</GUID>
+      <GUID>8CC484F02C1D20E11D93F9B01294A3FE</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
