@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-11-04 19:14:57" Creator="Ryan" Comments="" ID="a2c599a1195ac6ac937a851ab62b65f6">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2018-11-13 11:33:33" Modified_Date="2019-11-04 19:51:22" Creator="Ryan" Comments="" ID="f704e16e4994ab82e4011f580cb8cc0f">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_lv_memory</Package_File_Name>
     <Library_Version>0.9.0.20</Library_Version>
@@ -350,7 +350,7 @@ Initial build. Includes support for:
         <Path>..\Pointer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2407C220D7F668ADD11B75B577B9D1D7</GUID>
+      <GUID>1F5FC1367C2674245B9D31BC6885D6FF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -595,7 +595,7 @@ Initial build. Includes support for:
         <Path>..\Malleable</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0BC7AE855BD363941AD58AB4F682EBBE</GUID>
+      <GUID>C469ED331953B2430EF26205A908CCB9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -644,7 +644,7 @@ Initial build. Includes support for:
         <Path>..\Source\Classes\Pointer\Get Size.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5C8444835A4F99BDB35051921D2E193B</GUID>
+      <GUID>14BC8F3EADDE9A27D8AE4E5C3719CD99</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1071,7 +1071,7 @@ Initial build. Includes support for:
         <Path>..\Source\VIs\New Error Cluster Constant.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2472E6CF69EC7475A104F5C22CDE7555</GUID>
+      <GUID>BFA868A7104478BED7A9F0E336FBA67C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1138,17 +1138,17 @@ Initial build. Includes support for:
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Sizeof.vim</NameSub_Menu_Name>
-        <Short_Name>Malleable Sizeof</Short_Name>
+        <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
           <Row>1</Row>
           <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>..\Source\Classes\Pointer\Sizeof.vim</Path>
+        <Path>..\Source\VIs\Sizeof.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>21D7EB0204779CA0E2811BBB453DCDA9</GUID>
+      <GUID>5ECCE3B6FE1C462F0F3C4B682DC935C0</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
