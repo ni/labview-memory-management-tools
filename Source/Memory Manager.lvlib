@@ -30,5 +30,4 @@
 		<Item Name="Sizeof.vim" Type="VI" URL="../VIs/Sizeof.vim"/>
 		<Item Name="Write.vim" Type="VI" URL="../Classes/Pointer/Write.vim"/>
 	</Item>
-	<Item Name="Static Error Handling.lvlib" Type="Library" URL="../Static Error Handling.lvlib"/>
 </Library>

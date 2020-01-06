@@ -1,7 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="17008000">
-	<Property Name="NI.Lib.ContainingLib" Type="Str">Memory Manager.lvlib</Property>
-	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../Memory Manager.lvlib</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*3!!!*Q(C=\&gt;5R5C*"&amp;-&lt;RT[UNSYC#D.$C!A9PX:!L=)6X"6+Q$/9+\QJ=A7DS&gt;Q7K$$@C#L0`;:]MFKYE;WFADQX$VTX&gt;0XK;57LF2PKJY6+Z?\=]NZ`V@$KND]^PGEQG@R0KC`:"'EY&gt;\C[VN_R6_T#]WT[7.\\,S8@7`0L[&amp;^`PT@:`L]_&amp;IO`S84[X&lt;#ZOUA`@MV@N"UR.;F#&gt;;BKH'J)]S:-]S:-]S9-]S)-]S)-]S*X=S:X=S:X=S9X=S)X=S)X=S.N",H+2CRR3-HES54*I-E$3'9K3F]34?"*0YO'D%E`C34S**`(129EH]33?R*.YO%S**`%EHM34?"CK3&lt;)&gt;Z(A3$]-L]!3?Q".Y!A^4+P!%A'#S9/"A%"A+'I/4Q".Y!A_H#DS"*`!%HM"$MQ*0Y!E]A3@Q=%F&lt;F7C;]3$(QT"S0)\(]4A?R]01=DS/R`%Y(M@$&gt;()]DM&gt;"/"-[AU/1=Z(4Q@HA?"Q0&lt;X)]DM@R/"\(1V/\1^Z7:N3-"TE?QW.Y$)`B-4Q-)=.D?!S0Y4%]$#P$9XA-D_%R0%QFQW.Y$)]"-3:F?BG$'2=;H9T!]0$8&gt;IOVOR2.9OW1;P/K.K6KM[EWE7JTK'[[[G;K&lt;J*K]67,KFIMV3+IPJQ+L=+I*F&amp;&gt;0(&lt;5E&gt;=$&gt;5`&gt;54PKGLKC,KE,[GS]^$^X0"[0/BQ/WO`XWOVW[LJ/[`6;K^6+S_63C]6#M^HM^"CYZ4A^%*[?3RP/NY_`_POJ^Q`&gt;.88?0`SGXODK@DLPNY`T@OTT1@^,P]#T54^U0CZL^!=I_:&amp;2!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
