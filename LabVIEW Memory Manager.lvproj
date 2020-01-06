@@ -341,8 +341,6 @@
 				<Item Name="Waveform Subtype Enum__ogtk__jki_vi_tester.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/Waveform Subtype Enum__ogtk__jki_vi_tester.ctl"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Compare Contents.vi" Type="VI" URL="../Source/Classes/Pointer/Public/Compare Contents.vi"/>
-			<Item Name="Compare Size.vi" Type="VI" URL="../Source/Classes/Pointer/Public/Compare Size.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
