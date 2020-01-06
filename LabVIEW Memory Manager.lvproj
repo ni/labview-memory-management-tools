@@ -343,25 +343,6 @@
 			</Item>
 			<Item Name="Compare Contents.vi" Type="VI" URL="../Source/Classes/Pointer/Public/Compare Contents.vi"/>
 			<Item Name="Compare Size.vi" Type="VI" URL="../Source/Classes/Pointer/Public/Compare Size.vi"/>
-			<Item Name="Create Error Cluster (256B).vi" Type="VI" URL="../Source/VIs/VIs for Poly/Create Error Cluster (256B).vi"/>
-			<Item Name="Create Error Cluster (512B).vi" Type="VI" URL="../Source/VIs/VIs for Poly/Create Error Cluster (512B).vi"/>
-			<Item Name="Create Error Cluster (1024B).vi" Type="VI" URL="../Source/VIs/VIs for Poly/Create Error Cluster (1024B).vi"/>
-			<Item Name="Create Error Cluster.vi" Type="VI" URL="../Source/VIs/Create Error Cluster.vi"/>
-			<Item Name="Set Error Code.vi" Type="VI" URL="../Source/VIs/Set Error Code.vi"/>
-			<Item Name="Set Error Source.vi" Type="VI" URL="../Source/VIs/Set Error Source.vi"/>
-			<Item Name="Set Error Status.vi" Type="VI" URL="../Source/VIs/Set Error Status.vi"/>
-			<Item Name="Write DBL into Source.vi" Type="VI" URL="../Source/VIs/VIs for Poly/Write DBL into Source.vi"/>
-			<Item Name="Write I8 into Source.vi" Type="VI" URL="../Source/VIs/VIs for Poly/Write I8 into Source.vi"/>
-			<Item Name="Write I16 into Source.vi" Type="VI" URL="../Source/VIs/VIs for Poly/Write I16 into Source.vi"/>
-			<Item Name="Write I32 into Source.vi" Type="VI" URL="../Source/VIs/VIs for Poly/Write I32 into Source.vi"/>
-			<Item Name="Write I64 into Source.vi" Type="VI" URL="../Source/VIs/VIs for Poly/Write I64 into Source.vi"/>
-			<Item Name="Write Number into Source.vi" Type="VI" URL="../Source/VIs/Write Number into Source.vi"/>
-			<Item Name="Write SGL into Source.vi" Type="VI" URL="../Source/VIs/VIs for Poly/Write SGL into Source.vi"/>
-			<Item Name="Write String into Source.vi" Type="VI" URL="../Source/VIs/Write String into Source.vi"/>
-			<Item Name="Write U8 into Source.vi" Type="VI" URL="../Source/VIs/VIs for Poly/Write U8 into Source.vi"/>
-			<Item Name="Write U16 into Source.vi" Type="VI" URL="../Source/VIs/VIs for Poly/Write U16 into Source.vi"/>
-			<Item Name="Write U32 into Source.vi" Type="VI" URL="../Source/VIs/VIs for Poly/Write U32 into Source.vi"/>
-			<Item Name="Write U64 into Source.vi" Type="VI" URL="../Source/VIs/VIs for Poly/Write U64 into Source.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
