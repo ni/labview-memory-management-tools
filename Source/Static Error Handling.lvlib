@@ -15,10 +15,10 @@
 			<Item Name="New Error Cluster Constant.vi" Type="VI" URL="../VIs/New Error Cluster Constant.vi"/>
 		</Item>
 		<Item Name="Parameters" Type="Folder">
-			<Item Name="Error Cluster.Set Code.vi" Type="VI" URL="../VIs/Error Cluster.Set Code.vi"/>
-			<Item Name="Error Cluster.Set Description.vi" Type="VI" URL="../VIs/Error Cluster.Set Description.vi"/>
-			<Item Name="Error Cluster.Set Status.vi" Type="VI" URL="../VIs/Error Cluster.Set Status.vi"/>
-			<Item Name="Error Cluster.Set VI Source.vi" Type="VI" URL="../VIs/Error Cluster.Set VI Source.vi"/>
+			<Item Name="Set Error Code.vi" Type="VI" URL="../VIs/Set Error Code.vi"/>
+			<Item Name="Set Error Description.vi" Type="VI" URL="../VIs/Set Error Description.vi"/>
+			<Item Name="Set Error Source VI.vi" Type="VI" URL="../VIs/Set Error Source VI.vi"/>
+			<Item Name="Set Error Status.vi" Type="VI" URL="../VIs/Set Error Status.vi"/>
 		</Item>
 		<Item Name="Source Buffer" Type="Folder">
 			<Item Name="Read" Type="Folder"/>
@@ -29,50 +29,54 @@
 						<Item Name="Base 8" Type="Folder"/>
 						<Item Name="Base 10" Type="Folder"/>
 						<Item Name="Base 16" Type="Folder"/>
-						<Item Name="Source.Write.Range.Base10 (U64).vi" Type="VI" URL="../VIs/Source.Write.Range.Base10 (U64).vi"/>
+						<Item Name="Write Numeric Range to Source (Base10 U64).vi" Type="VI" URL="../VIs/Write Numeric Range to Source (Base10 U64).vi"/>
 					</Item>
 					<Item Name="Scalar" Type="Folder">
-						<Item Name="Base 2" Type="Folder"/>
-						<Item Name="Base 8" Type="Folder"/>
-						<Item Name="Base 10" Type="Folder">
-							<Item Name="Source.Write.Scalar.Base10 (DBL).vi" Type="VI" URL="../VIs/Source.Write.Scalar.Base10 (DBL).vi"/>
-							<Item Name="Source.Write.Scalar.Base10 (I8).vi" Type="VI" URL="../VIs/Source.Write.Scalar.Base10 (I8).vi"/>
-							<Item Name="Source.Write.Scalar.Base10 (I16).vi" Type="VI" URL="../VIs/Source.Write.Scalar.Base10 (I16).vi"/>
-							<Item Name="Source.Write.Scalar.Base10 (I32).vi" Type="VI" URL="../VIs/Source.Write.Scalar.Base10 (I32).vi"/>
-							<Item Name="Source.Write.Scalar.Base10 (I64).vi" Type="VI" URL="../VIs/Source.Write.Scalar.Base10 (I64).vi"/>
-							<Item Name="Source.Write.Scalar.Base10 (SGL).vi" Type="VI" URL="../VIs/Source.Write.Scalar.Base10 (SGL).vi"/>
-							<Item Name="Source.Write.Scalar.Base10 (U8).vi" Type="VI" URL="../VIs/Source.Write.Scalar.Base10 (U8).vi"/>
-							<Item Name="Source.Write.Scalar.Base10 (U16).vi" Type="VI" URL="../VIs/Source.Write.Scalar.Base10 (U16).vi"/>
-							<Item Name="Source.Write.Scalar.Base10 (U32).vi" Type="VI" URL="../VIs/Source.Write.Scalar.Base10 (U32).vi"/>
-							<Item Name="Source.Write.Scalar.Base10 (U64).vi" Type="VI" URL="../VIs/Source.Write.Scalar.Base10 (U64).vi"/>
-							<Item Name="Source.Write.Scalar.Base10.vi" Type="VI" URL="../VIs/Source.Write.Scalar.Base10.vi"/>
+						<Item Name="Base 8" Type="Folder">
+							<Item Name="Write Numeric Scalar to Source (Base08 I8).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base08 I8).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base08 I16).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base08 I16).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base08 I32).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base08 I32).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base08 I64).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base08 I64).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base08 U8).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base08 U8).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base08 U16).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base08 U16).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base08 U32).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base08 U32).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base08 U64).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base08 U64).vi"/>
 						</Item>
-						<Item Name="Base 16" Type="Folder"/>
+						<Item Name="Base 10" Type="Folder">
+							<Item Name="Write Numeric Scalar to Source (Base10 I8).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base10 I8).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base10 I16).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base10 I16).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base10 I32).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base10 I32).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base10 I64).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base10 I64).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base10 U8).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base10 U8).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base10 U16).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base10 U16).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base10 U32).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base10 U32).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base10 U64).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base10 U64).vi"/>
+						</Item>
+						<Item Name="Base 16" Type="Folder">
+							<Item Name="Write Numeric Scalar to Source (Base16 I8).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base16 I8).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base16 I16).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base16 I16).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base16 I32).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base16 I32).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base16 I64).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base16 I64).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base16 U8).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base16 U8).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base16 U16).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base16 U16).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base16 U32).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base16 U32).vi"/>
+							<Item Name="Write Numeric Scalar to Source (Base16 U64).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (Base16 U64).vi"/>
+						</Item>
+						<Item Name="Write Numeric Scalar to Source (DBL).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (DBL).vi"/>
+						<Item Name="Write Numeric Scalar to Source (SGL).vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source (SGL).vi"/>
+						<Item Name="Write Numeric Scalar to Source.vi" Type="VI" URL="../VIs/Write Numeric Scalar to Source.vi"/>
 					</Item>
 				</Item>
 				<Item Name="String" Type="Folder">
-					<Item Name="Source.Write.String.vi" Type="VI" URL="../VIs/Source.Write.String.vi"/>
+					<Item Name="Write String to Source.vi" Type="VI" URL="../VIs/Write String to Source.vi"/>
 				</Item>
 			</Item>
 		</Item>
 		<Item Name="Static String" Type="Folder">
 			<Item Name="Static String (16B).vi" Type="VI" URL="../VIs/Static String (16B).vi"/>
+			<Item Name="Static String (32B).vi" Type="VI" URL="../VIs/Static String (32B).vi"/>
+			<Item Name="Static String (64B).vi" Type="VI" URL="../VIs/Static String (64B).vi"/>
 			<Item Name="Static String.vi" Type="VI" URL="../VIs/Static String.vi"/>
-		</Item>
-		<Item Name="To String" Type="Folder">
-			<Item Name="Integer" Type="Folder">
-				<Item Name="Decimal" Type="Folder">
-					<Item Name="To String.Integer.Decimal.I8.vi" Type="VI" URL="../VIs/To String.Integer.Decimal.I8.vi"/>
-					<Item Name="To String.Integer.Decimal.I16.vi" Type="VI" URL="../VIs/To String.Integer.Decimal.I16.vi"/>
-					<Item Name="To String.Integer.Decimal.I32.vi" Type="VI" URL="../VIs/To String.Integer.Decimal.I32.vi"/>
-					<Item Name="To String.Integer.Decimal.I64.vi" Type="VI" URL="../VIs/To String.Integer.Decimal.I64.vi"/>
-					<Item Name="To String.Integer.Decimal.U8.vi" Type="VI" URL="../VIs/To String.Integer.Decimal.U8.vi"/>
-					<Item Name="To String.Integer.Decimal.U16.vi" Type="VI" URL="../VIs/To String.Integer.Decimal.U16.vi"/>
-					<Item Name="To String.Integer.Decimal.U32.vi" Type="VI" URL="../VIs/To String.Integer.Decimal.U32.vi"/>
-					<Item Name="To String.Integer.Decimal.U64.vi" Type="VI" URL="../VIs/To String.Integer.Decimal.U64.vi"/>
-					<Item Name="To String.Integer.Decimal.vi" Type="VI" URL="../VIs/To String.Integer.Decimal.vi"/>
-				</Item>
-			</Item>
 		</Item>
 	</Item>
 </Library>
