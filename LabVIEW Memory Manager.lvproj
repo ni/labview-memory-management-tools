@@ -341,25 +341,6 @@
 				<Item Name="Waveform Subtype Enum__ogtk__jki_vi_tester.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/Waveform Subtype Enum__ogtk__jki_vi_tester.ctl"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Error Cluster.Set Code.vi" Type="VI" URL="../Source/VIs/Error Cluster.Set Code.vi"/>
-			<Item Name="Error Cluster.Set Status.vi" Type="VI" URL="../Source/VIs/Error Cluster.Set Status.vi"/>
-			<Item Name="Error Cluster.Set VI Source.vi" Type="VI" URL="../Source/VIs/Error Cluster.Set VI Source.vi"/>
-			<Item Name="New Error Cluster Constant (256B).vi" Type="VI" URL="../Source/VIs/New Error Cluster Constant (256B).vi"/>
-			<Item Name="New Error Cluster Constant (512B).vi" Type="VI" URL="../Source/VIs/New Error Cluster Constant (512B).vi"/>
-			<Item Name="New Error Cluster Constant (1024B).vi" Type="VI" URL="../Source/VIs/New Error Cluster Constant (1024B).vi"/>
-			<Item Name="New Error Cluster Constant.vi" Type="VI" URL="../Source/VIs/New Error Cluster Constant.vi"/>
-			<Item Name="Source.Write.Scalar.Base10 (DBL).vi" Type="VI" URL="../Source/VIs/Source.Write.Scalar.Base10 (DBL).vi"/>
-			<Item Name="Source.Write.Scalar.Base10 (I8).vi" Type="VI" URL="../Source/VIs/Source.Write.Scalar.Base10 (I8).vi"/>
-			<Item Name="Source.Write.Scalar.Base10 (I16).vi" Type="VI" URL="../Source/VIs/Source.Write.Scalar.Base10 (I16).vi"/>
-			<Item Name="Source.Write.Scalar.Base10 (I32).vi" Type="VI" URL="../Source/VIs/Source.Write.Scalar.Base10 (I32).vi"/>
-			<Item Name="Source.Write.Scalar.Base10 (I64).vi" Type="VI" URL="../Source/VIs/Source.Write.Scalar.Base10 (I64).vi"/>
-			<Item Name="Source.Write.Scalar.Base10 (SGL).vi" Type="VI" URL="../Source/VIs/Source.Write.Scalar.Base10 (SGL).vi"/>
-			<Item Name="Source.Write.Scalar.Base10 (U8).vi" Type="VI" URL="../Source/VIs/Source.Write.Scalar.Base10 (U8).vi"/>
-			<Item Name="Source.Write.Scalar.Base10 (U16).vi" Type="VI" URL="../Source/VIs/Source.Write.Scalar.Base10 (U16).vi"/>
-			<Item Name="Source.Write.Scalar.Base10 (U32).vi" Type="VI" URL="../Source/VIs/Source.Write.Scalar.Base10 (U32).vi"/>
-			<Item Name="Source.Write.Scalar.Base10 (U64).vi" Type="VI" URL="../Source/VIs/Source.Write.Scalar.Base10 (U64).vi"/>
-			<Item Name="Source.Write.Scalar.Base10.vi" Type="VI" URL="../Source/VIs/Source.Write.Scalar.Base10.vi"/>
-			<Item Name="Source.Write.String.vi" Type="VI" URL="../Source/VIs/Source.Write.String.vi"/>
 			<Item Name="Static Error Handling.lvlib" Type="Library" URL="../Source/Static Error Handling.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
