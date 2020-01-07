@@ -25,9 +25,6 @@
 		<Item Name="Size.ctl" Type="VI" URL="../Controls/Size.ctl"/>
 	</Item>
 	<Item Name="VIs" Type="Folder">
-		<Item Name="Allocate.vim" Type="VI" URL="../Classes/Pointer/Allocate.vim"/>
-		<Item Name="Read.vim" Type="VI" URL="../Classes/Pointer/Read.vim"/>
 		<Item Name="Sizeof.vim" Type="VI" URL="../VIs/Sizeof.vim"/>
-		<Item Name="Write.vim" Type="VI" URL="../Classes/Pointer/Write.vim"/>
 	</Item>
 </Library>
