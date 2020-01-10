@@ -18,10 +18,11 @@
 			</Item>
 		</Item>
 		<Item Name="Tests" Type="Folder">
-			<Item Name="Deterministic Error Tests.lvlib" Type="Library" URL="../Tests/Deterministic Error Tests/Deterministic Error Tests.lvlib"/>
-			<Item Name="Pointer Tests.lvlib" Type="Library" URL="../Tests/Pointer Tests/Pointer Tests.lvlib"/>
+			<Item Name="Memory Manager Tests.lvlib" Type="Library" URL="../Tests/Pointer Tests/Memory Manager Tests.lvlib"/>
+			<Item Name="Static Error Tests.lvlib" Type="Library" URL="../Tests/Deterministic Error Tests/Static Error Tests.lvlib"/>
 		</Item>
 		<Item Name="Memory Manager.lvlib" Type="Library" URL="../Source/Memory Manager.lvlib"/>
+		<Item Name="Static Errors.lvlib" Type="Library" URL="../Source/Static Errors.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Array Size(s)__ogtk__jki_vi_tester.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/Array Size(s)__ogtk__jki_vi_tester.vi"/>
@@ -341,7 +342,6 @@
 				<Item Name="Waveform Subtype Enum__ogtk__jki_vi_tester.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/Waveform Subtype Enum__ogtk__jki_vi_tester.ctl"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Static Error Handling.lvlib" Type="Library" URL="../Source/Static Error Handling.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
