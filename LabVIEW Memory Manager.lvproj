@@ -18,8 +18,8 @@
 			</Item>
 		</Item>
 		<Item Name="Tests" Type="Folder">
-			<Item Name="Memory Manager Tests.lvlib" Type="Library" URL="../Tests/Pointer Tests/Memory Manager Tests.lvlib"/>
-			<Item Name="Static Error Tests.lvlib" Type="Library" URL="../Tests/Deterministic Error Tests/Static Error Tests.lvlib"/>
+			<Item Name="Memory Manager Tests.lvlib" Type="Library" URL="../Tests/Memory Manager/Memory Manager Tests.lvlib"/>
+			<Item Name="Static Errors Tests.lvlib" Type="Library" URL="../Tests/Static Errors/Static Errors Tests.lvlib"/>
 		</Item>
 		<Item Name="Memory Manager.lvlib" Type="Library" URL="../Source/Memory Manager.lvlib"/>
 		<Item Name="Static Errors.lvlib" Type="Library" URL="../Source/Static Errors.lvlib"/>
