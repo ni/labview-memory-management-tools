@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="16008000">
+<Project Type="Project" LVVersion="17008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Phar Lap ETS" Type="Target Folder">
 		<Item Name="Phar Lap ETS PXI" Type="RT PXI Chassis">
@@ -293,8 +293,8 @@ AddOutputFilter chunkFilter
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Memory.lvlib" Type="Library" URL="../../../Source/Memory.lvlib"/>
-			<Item Name="Static Error Handling.lvlib" Type="Library" URL="../../../Source/Submodules/SEH/Source/Static Error Handling.lvlib"/>
+			<Item Name="Memory Manager.lvlib" Type="Library" URL="../../../Source/Memory Manager.lvlib"/>
+			<Item Name="Static Errors.lvlib" Type="Library" URL="../../../Source/Static Errors.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

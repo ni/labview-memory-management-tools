@@ -17,6 +17,12 @@
 				<Item Name="Memory Manager Pre-Build.vi" Type="VI" URL="../Development Utilities/Build/Memory Manager Pre-Build.vi"/>
 			</Item>
 		</Item>
+		<Item Name="Examples" Type="Folder">
+			<Item Name="Memory Benchmark" Type="Folder">
+				<Item Name="Memory Benchmark.lvproj" Type="Document" URL="../Examples/Memory Benchmark/Memory Benchmark.lvproj"/>
+				<Item Name="Memory Benchmark.vi" Type="VI" URL="../Examples/Memory Benchmark/Memory Benchmark.vi"/>
+			</Item>
+		</Item>
 		<Item Name="Tests" Type="Folder">
 			<Item Name="Memory Manager Tests.lvlib" Type="Library" URL="../Tests/Memory Manager/Memory Manager Tests.lvlib"/>
 			<Item Name="Static Errors Tests.lvlib" Type="Library" URL="../Tests/Static Errors/Static Errors Tests.lvlib"/>
