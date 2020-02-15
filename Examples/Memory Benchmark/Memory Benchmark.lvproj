@@ -1,6 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="17008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="Phar Lap ETS" Type="Target Folder">
 		<Item Name="Phar Lap ETS PXI" Type="RT PXI Chassis">
 			<Property Name="alias.name" Type="Str">Phar Lap ETS PXI</Property>
@@ -293,8 +294,10 @@ AddOutputFilter chunkFilter
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="Memory Benchmark Async.vi" Type="VI" URL="../Memory Benchmark Async.vi"/>
 			<Item Name="Memory Manager.lvlib" Type="Library" URL="../../../Source/Memory Manager.lvlib"/>
 			<Item Name="Static Errors.lvlib" Type="Library" URL="../../../Source/Static Errors.lvlib"/>
+			<Item Name="UI Pointers.ctl" Type="VI" URL="../UI Pointers.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

@@ -24,6 +24,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Classes" Type="Folder">
 			<Item Name="Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.lvclass"/>
+			<Item Name="Stop Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Stop/Stop Pointer.lvclass"/>
 		</Item>
 		<Item Name="Controls" Type="Folder">
 			<Item Name="Length.ctl" Type="VI" URL="../Controls/Length.ctl"/>

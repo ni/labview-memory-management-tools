@@ -348,6 +348,8 @@
 				<Item Name="Waveform Subtype Enum__ogtk__jki_vi_tester.ctl" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/Waveform Subtype Enum__ogtk__jki_vi_tester.ctl"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="Memory Benchmark Async.vi" Type="VI" URL="../Examples/Memory Benchmark/Memory Benchmark Async.vi"/>
+			<Item Name="UI Pointers.ctl" Type="VI" URL="../Examples/Memory Benchmark/UI Pointers.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
