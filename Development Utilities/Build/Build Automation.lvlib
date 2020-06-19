@@ -19,7 +19,7 @@
 		<Item Name="New Progress Window.vi" Type="VI" URL="../New Progress Window.vi"/>
 		<Item Name="Progress Window.vi" Type="VI" URL="../Progress Window.vi"/>
 		<Item Name="Set Window Progress.vi" Type="VI" URL="../Set Window Progress.vi"/>
-		<Item Name="Set Windows Status.vi" Type="VI" URL="../Set Windows Status.vi"/>
+		<Item Name="Set Window Status.vi" Type="VI" URL="../Set Window Status.vi"/>
 		<Item Name="Stop Progress Window.vi" Type="VI" URL="../Stop Progress Window.vi"/>
 	</Item>
 	<Item Name="VI" Type="Folder">
