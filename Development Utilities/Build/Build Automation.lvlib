@@ -8,24 +8,24 @@
 
 </Property>
 	<Item Name="Blacklist" Type="Folder">
-		<Item Name="Configure VIs.Blacklist.vi" Type="VI" URL="../Configure VIs.Blacklist.vi"/>
+		<Item Name="Configure VI Blacklist.vi" Type="VI" URL="../Configure VI Blacklist.vi"/>
 	</Item>
 	<Item Name="Library" Type="Folder">
 		<Item Name="Find Project Library.vi" Type="VI" URL="../Find Project Library.vi"/>
-		<Item Name="Library.Get All VIs.vi" Type="VI" URL="../Library.Get All VIs.vi"/>
+		<Item Name="Get All Library VIs.vi" Type="VI" URL="../Get All Library VIs.vi"/>
 	</Item>
 	<Item Name="Progress Window" Type="Folder">
-		<Item Name="Progress Window.Close.vi" Type="VI" URL="../Progress Window.Close.vi"/>
-		<Item Name="Progress Window.New.vi" Type="VI" URL="../Progress Window.New.vi"/>
-		<Item Name="Progress Window.Set Progress.vi" Type="VI" URL="../Progress Window.Set Progress.vi"/>
-		<Item Name="Progress Window.Set Status.vi" Type="VI" URL="../Progress Window.Set Status.vi"/>
-		<Item Name="Progress Window.Set Stop.vi" Type="VI" URL="../Progress Window.Set Stop.vi"/>
+		<Item Name="Close Progress Window.vi" Type="VI" URL="../Close Progress Window.vi"/>
+		<Item Name="New Progress Window.vi" Type="VI" URL="../New Progress Window.vi"/>
 		<Item Name="Progress Window.vi" Type="VI" URL="../Progress Window.vi"/>
+		<Item Name="Set Window Progress.vi" Type="VI" URL="../Set Window Progress.vi"/>
+		<Item Name="Set Windows Status.vi" Type="VI" URL="../Set Windows Status.vi"/>
+		<Item Name="Stop Progress Window.vi" Type="VI" URL="../Stop Progress Window.vi"/>
 	</Item>
 	<Item Name="VI" Type="Folder">
-		<Item Name="VI.Save.vi" Type="VI" URL="../VI.Save.vi"/>
-		<Item Name="VI.Set Debugging.vi" Type="VI" URL="../VI.Set Debugging.vi"/>
-		<Item Name="VI.Set Inline.vi" Type="VI" URL="../VI.Set Inline.vi"/>
-		<Item Name="VI.Set Reentrancy.vi" Type="VI" URL="../VI.Set Reentrancy.vi"/>
+		<Item Name="Save VI.vi" Type="VI" URL="../Save VI.vi"/>
+		<Item Name="Set VI Debugging.vi" Type="VI" URL="../Set VI Debugging.vi"/>
+		<Item Name="Set VI Inlining.vi" Type="VI" URL="../Set VI Inlining.vi"/>
+		<Item Name="Set VI Reentrancy.vi" Type="VI" URL="../Set VI Reentrancy.vi"/>
 	</Item>
 </Library>
