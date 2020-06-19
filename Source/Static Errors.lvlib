@@ -110,6 +110,9 @@
 					</Item>
 				</Item>
 			</Item>
+			<Item Name="SubVIs" Type="Folder">
+				<Item Name="Include Limit in Compare String.vi" Type="VI" URL="../VIs/Include Limit in Compare String.vi"/>
+			</Item>
 		</Item>
 	</Item>
 </Library>
