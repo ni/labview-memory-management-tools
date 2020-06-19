@@ -26,11 +26,5 @@
 			<Item Name="Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Pointer.lvclass"/>
 			<Item Name="Stop Pointer.lvclass" Type="LVClass" URL="../Classes/Pointer/Stop/Stop Pointer.lvclass"/>
 		</Item>
-		<Item Name="Controls" Type="Folder">
-			<Item Name="Length.ctl" Type="VI" URL="../Controls/Length.ctl"/>
-			<Item Name="Null.ctl" Type="VI" URL="../Controls/Null.ctl"/>
-			<Item Name="Offset.ctl" Type="VI" URL="../Controls/Offset.ctl"/>
-			<Item Name="Size.ctl" Type="VI" URL="../Controls/Size.ctl"/>
-		</Item>
 	</Item>
 </Library>
