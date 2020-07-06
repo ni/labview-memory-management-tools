@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2020-01-13 10:12:19" Modified_Date="2020-06-19 14:40:11" Creator="Admin" Comments="" ID="02496ef794ca5a04c4b9b52eff2e737d">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2020-01-13 10:12:19" Modified_Date="2020-07-06 16:07:35" Creator="Admin" Comments="" ID="79a925a93800e011a352d651680e951b">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_lv_memory</Package_File_Name>
-    <Library_Version>1.0.1.28</Library_Version>
+    <Library_Version>1.0.2.30</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>builds:\</Library_Output_Folder>
+    <Library_Output_Folder>..\..\builds</Library_Output_Folder>
     <Company_Name>National Instruments</Company_Name>
     <Library_Summary/>
     <Library_License>MIT</Library_License>
@@ -32,8 +32,13 @@
       <Copyright/>
       <Packager>National Instruments</Packager>
       <URL>https://github.com/ni/labview-memory-management-tools</URL>
-      <Release_Notes>1.0.1:
-- Bug fixes and clean up. Added Stop Pointer to palette.
+      <Release_Notes>1.0.2:
+- Fixed Stop Pointer create method reentrancy.
+- Inlined Static Errors VIs.
+
+1.0.1:
+- Bug fixes and clean up.
+- Added Stop Pointer to palette.
 
 1.0.0:
 - First stable release.</Release_Notes>
@@ -288,7 +293,7 @@
         <Path>Static Errors</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EF867BD280FDC551716D8156D3B3AA29</GUID>
+      <GUID>1189EE0FA89CFA578D130F80921AF4B3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -561,7 +566,7 @@
         <Path>Stop</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>829407878A87328A39BF9D8CF8502E98</GUID>
+      <GUID>865F6C7D5EAF8A10B781682A779927DD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -694,7 +699,7 @@
         <Path>Source\VIs\Set Error Description.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2E258892C31CE18EB278020A81B1B0F2</GUID>
+      <GUID>9E588A1740BCBC0788653DBE22A03BFD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -743,7 +748,7 @@
         <Path>Source\Classes\Pointer\Get Size.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9B524E720740B5A4BA4BE933C43C4DFB</GUID>
+      <GUID>03D8E8FD6596A9E6742FBB6E002EC5D4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -792,7 +797,7 @@
         <Path>Source\Classes\Pointer\Stop\Assert Stop.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3E830C8F19D8F8139039776F244CC093</GUID>
+      <GUID>5C872A9A18AB99D354459926596DC10D</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
