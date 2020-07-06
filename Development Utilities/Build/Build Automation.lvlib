@@ -12,7 +12,9 @@
 	</Item>
 	<Item Name="Library" Type="Folder">
 		<Item Name="Find Project Library.vi" Type="VI" URL="../Find Project Library.vi"/>
+		<Item Name="Get All Library Classes.vi" Type="VI" URL="../Get All Library Classes.vi"/>
 		<Item Name="Get All Library VIs.vi" Type="VI" URL="../Get All Library VIs.vi"/>
+		<Item Name="Open and Save All Library VIs.vi" Type="VI" URL="../Open and Save All Library VIs.vi"/>
 	</Item>
 	<Item Name="Progress Window" Type="Folder">
 		<Item Name="Close Progress Window.vi" Type="VI" URL="../Close Progress Window.vi"/>
