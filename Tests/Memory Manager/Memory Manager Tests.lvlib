@@ -4,7 +4,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="Malleable Testing Class" Type="Folder">
+		<Item Name="Malleable Type Tests.lvclass" Type="LVClass" URL="../Malleable Type Tests/Malleable Type Tests.lvclass"/>
+	</Item>
 	<Item Name="Data Manipulation Tests.lvclass" Type="LVClass" URL="../Pointer Tests/Data Manipulation Tests/Data Manipulation Tests.lvclass"/>
 	<Item Name="Lifecycle Tests.lvclass" Type="LVClass" URL="../Pointer Tests/Lifecycle Tests/Lifecycle Tests.lvclass"/>
+	<Item Name="Malleable Tests.lvclass" Type="LVClass" URL="../Pointer Tests/Malleable Tests/Malleable Tests.lvclass"/>
 	<Item Name="Read Value Tests.lvclass" Type="LVClass" URL="../Pointer Tests/Read Value Tests/Read Value Tests.lvclass"/>
 </Library>
